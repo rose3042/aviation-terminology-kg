@@ -1,0 +1,7057 @@
+[
+  {
+    "subject": "copper",
+    "relation": "is_a",
+    "object": "chemical element"
+  },
+  {
+    "subject": "copper",
+    "relation": "abbreviation_of",
+    "object": "Cu"
+  },
+  {
+    "subject": "copper",
+    "relation": "is_a",
+    "object": "nonferrous metals"
+  },
+  {
+    "subject": "copper",
+    "relation": "used_for",
+    "object": "electrical wire"
+  },
+  {
+    "subject": "blade inspection method (BIM) (helicopter rotor)",
+    "relation": "detects",
+    "object": "rotor blade cracking"
+  },
+  {
+    "subject": "blade inspection method (BIM) (helicopter rotor)",
+    "relation": "contains",
+    "object": "pressurized nitrogen gas"
+  },
+  {
+    "subject": "blade inspection method (BIM) (helicopter rotor)",
+    "relation": "part_of",
+    "object": "hollow spar"
+  },
+  {
+    "subject": "blade inspection method (BIM) (helicopter rotor)",
+    "relation": "measures",
+    "object": "pressure"
+  },
+  {
+    "subject": "blade inspection method (BIM) (helicopter rotor)",
+    "relation": "controls",
+    "object": "warning light"
+  },
+  {
+    "subject": "blade inspection method (BIM) (helicopter rotor)",
+    "relation": "warns",
+    "object": "pilot"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "is_a",
+    "object": "bolt"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "used_for",
+    "object": "aircraft construction"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "part_of",
+    "object": "shank"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "measures",
+    "object": "tolerance"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "opposite_of",
+    "object": "cadmium plated"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "consists_of",
+    "object": "wax"
+  },
+  {
+    "subject": "close- tolerance bolt",
+    "relation": "consists_of",
+    "object": "grease"
+  },
+  {
+    "subject": "vertex (air traffic control)",
+    "relation": "is_a",
+    "object": "outer marker"
+  },
+  {
+    "subject": "vertex (air traffic control)",
+    "relation": "is_a",
+    "object": "threshold"
+  },
+  {
+    "subject": "vertex (air traffic control)",
+    "relation": "is_a",
+    "object": "common point"
+  },
+  {
+    "subject": "nonscheduled airline",
+    "relation": "is_a",
+    "object": "airline"
+  },
+  {
+    "subject": "intermediate fix/initial approach waypoint (IF/IAWP)",
+    "relation": "abbreviation_of",
+    "object": "IFWP"
+  },
+  {
+    "subject": "intermediate fix/initial approach waypoint (IF/IAWP)",
+    "relation": "abbreviation_of",
+    "object": "IAWP"
+  },
+  {
+    "subject": "intermediate fix/initial approach waypoint (IF/IAWP)",
+    "relation": "is_a",
+    "object": "waypoint"
+  },
+  {
+    "subject": "intermediate fix/initial approach waypoint (IF/IAWP)",
+    "relation": "part_of",
+    "object": "T approach"
+  },
+  {
+    "subject": "intermediate fix/initial approach waypoint (IF/IAWP)",
+    "relation": "governed_by",
+    "object": "TAA"
+  },
+  {
+    "subject": "gilbert",
+    "relation": "measures",
+    "object": "magnetomotive force"
+  },
+  {
+    "subject": "gilbert",
+    "relation": "equals",
+    "object": "0.7957 ampere-turn"
+  },
+  {
+    "subject": "saturate (meteorology)",
+    "relation": "is_a",
+    "object": "saturated air"
+  },
+  {
+    "subject": "saturate (meteorology)",
+    "relation": "contains",
+    "object": "water vapor"
+  },
+  {
+    "subject": "saturate (meteorology)",
+    "relation": "governed_by",
+    "object": "temperature"
+  },
+  {
+    "subject": "acrylic lacquer",
+    "relation": "is_a",
+    "object": "aircraft finishing material"
+  },
+  {
+    "subject": "acrylic lacquer",
+    "relation": "consists_of",
+    "object": "acrylic resin vehicle"
+  },
+  {
+    "subject": "acrylic lacquer",
+    "relation": "consists_of",
+    "object": "volatile solvents"
+  },
+  {
+    "subject": "monoplane (type of airplane)",
+    "relation": "is_a",
+    "object": "monoplane (type of airplane)"
+  },
+  {
+    "subject": "monoplane (type of airplane)",
+    "relation": "opposite_of",
+    "object": "biplane"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "instance_of",
+    "object": "plain flap"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "instance_of",
+    "object": "split flap"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "instance_of",
+    "object": "slotted flap"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "instance_of",
+    "object": "Fowler flap"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "instance_of",
+    "object": "triple-slotted flap"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "part_of",
+    "object": "airplane"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "part_of",
+    "object": "wing"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "affects",
+    "object": "lift"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "affects",
+    "object": "drag"
+  },
+  {
+    "subject": "flaps (airplane control surfaces)",
+    "relation": "affects",
+    "object": "airfoil shape"
+  },
+  {
+    "subject": "Control Display Unit",
+    "relation": "abbreviation_of",
+    "object": "CDU"
+  },
+  {
+    "subject": "clean room",
+    "relation": "used_for",
+    "object": "manufacturing and servicing precision equipment"
+  },
+  {
+    "subject": "clean room",
+    "relation": "contains",
+    "object": "filtered air"
+  },
+  {
+    "subject": "clean room",
+    "relation": "used_for",
+    "object": "prevent contamination"
+  },
+  {
+    "subject": "clean room",
+    "relation": "contains",
+    "object": "special clothing"
+  },
+  {
+    "subject": "satellite ephemeris data",
+    "relation": "contains",
+    "object": "orbital data"
+  },
+  {
+    "subject": "satellite ephemeris data",
+    "relation": "contains",
+    "object": "atmospheric propagation data"
+  },
+  {
+    "subject": "satellite ephemeris data",
+    "relation": "contains",
+    "object": "satellite clock error data"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "is_a",
+    "object": "electrical component"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "instance_of",
+    "object": "vacuum tube"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "instance_of",
+    "object": "transistor"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "instance_of",
+    "object": "magnetic amplifier"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "controls",
+    "object": "current"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "controls",
+    "object": "voltage"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "used_for",
+    "object": "switching"
+  },
+  {
+    "subject": "active component (electrical component)",
+    "relation": "used_for",
+    "object": "amplification"
+  },
+  {
+    "subject": "heptane",
+    "relation": "is_a",
+    "object": "liquid organic hydrocarbon compound"
+  },
+  {
+    "subject": "heptane",
+    "relation": "used_for",
+    "object": "low reference fuel"
+  },
+  {
+    "subject": "heptane",
+    "relation": "affects",
+    "object": "octane rating"
+  },
+  {
+    "subject": "cart",
+    "relation": "synonym_of",
+    "object": "fuselage"
+  },
+  {
+    "subject": "cart",
+    "relation": "synonym_of",
+    "object": "cockpit"
+  },
+  {
+    "subject": "cart",
+    "relation": "synonym_of",
+    "object": "chaise"
+  },
+  {
+    "subject": "cart",
+    "relation": "synonym_of",
+    "object": "airframe"
+  },
+  {
+    "subject": "point-in-space approach (rotorcraft)",
+    "relation": "is_a",
+    "object": "instrument approach procedure"
+  },
+  {
+    "subject": "point-in-space approach (rotorcraft)",
+    "relation": "part_of",
+    "object": "missed approach point"
+  },
+  {
+    "subject": "point-in-space approach (rotorcraft)",
+    "relation": "associated_with",
+    "object": "helicopter landing area"
+  },
+  {
+    "subject": "plumb line",
+    "relation": "part_of",
+    "object": "plumb bob"
+  },
+  {
+    "subject": "plumb line",
+    "relation": "consists_of",
+    "object": "string"
+  },
+  {
+    "subject": "LAHSO (land-and-hold-short operations) (air traffic control)",
+    "relation": "consists_of",
+    "object": "simultaneous takeoffs and landings"
+  },
+  {
+    "subject": "LAHSO (land-and-hold-short operations) (air traffic control)",
+    "relation": "consists_of",
+    "object": "simultaneous landings"
+  },
+  {
+    "subject": "LAHSO (land-and-hold-short operations) (air traffic control)",
+    "relation": "governed_by",
+    "object": "hold-short clearance"
+  },
+  {
+    "subject": "vibrator-type voltage regulator (DC generator control)",
+    "relation": "is_a",
+    "object": "voltage regulator"
+  },
+  {
+    "subject": "vibrator-type voltage regulator (DC generator control)",
+    "relation": "controls",
+    "object": "DC generator"
+  },
+  {
+    "subject": "vibrator-type voltage regulator (DC generator control)",
+    "relation": "consists_of",
+    "object": "electromagnetic relay"
+  },
+  {
+    "subject": "vibrator-type voltage regulator (DC generator control)",
+    "relation": "part_of",
+    "object": "generator field circuit"
+  },
+  {
+    "subject": "vibrator-type voltage regulator (DC generator control)",
+    "relation": "controls",
+    "object": "generator output voltage"
+  },
+  {
+    "subject": "pico",
+    "relation": "synonym_of",
+    "object": "micro-micro"
+  },
+  {
+    "subject": "pico",
+    "relation": "is_a",
+    "object": "1 x 10–12"
+  },
+  {
+    "subject": "booster magneto",
+    "relation": "is_a",
+    "object": "magneto"
+  },
+  {
+    "subject": "booster magneto",
+    "relation": "used_for",
+    "object": "starting engine"
+  },
+  {
+    "subject": "booster magneto",
+    "relation": "provides",
+    "object": "hot retarded spark"
+  },
+  {
+    "subject": "real power (electrical power)",
+    "relation": "synonym_of",
+    "object": "true power"
+  },
+  {
+    "subject": "real power (electrical power)",
+    "relation": "opposite_of",
+    "object": "apparent power"
+  },
+  {
+    "subject": "real power (electrical power)",
+    "relation": "calculates",
+    "object": "power factor"
+  },
+  {
+    "subject": "real power (electrical power)",
+    "relation": "measures",
+    "object": "watts"
+  },
+  {
+    "subject": "baffle",
+    "relation": "is_a",
+    "object": "flow regulator"
+  },
+  {
+    "subject": "baffle",
+    "relation": "affects",
+    "object": "fluid flow"
+  },
+  {
+    "subject": "baffle",
+    "relation": "affects",
+    "object": "light"
+  },
+  {
+    "subject": "baffle",
+    "relation": "affects",
+    "object": "sound"
+  },
+  {
+    "subject": "chassis ground",
+    "relation": "synonym_of",
+    "object": "floating ground"
+  },
+  {
+    "subject": "telemetry unit",
+    "relation": "part_of",
+    "object": "telemetry system"
+  },
+  {
+    "subject": "telemetry unit",
+    "relation": "connected_to",
+    "object": "flight controller facilities"
+  },
+  {
+    "subject": "telemetry unit",
+    "relation": "connected_to",
+    "object": "ground station"
+  },
+  {
+    "subject": "galvanic generation of electricity",
+    "relation": "defined_by",
+    "object": "production of electricity by chemical action"
+  },
+  {
+    "subject": "galvanic generation of electricity",
+    "relation": "instance_of",
+    "object": "dry-cell batteries"
+  },
+  {
+    "subject": "galvanic generation of electricity",
+    "relation": "instance_of",
+    "object": "storage batteries"
+  },
+  {
+    "subject": "chain gear",
+    "relation": "synonym_of",
+    "object": "sprocket"
+  },
+  {
+    "subject": "chain gear",
+    "relation": "is_a",
+    "object": "toothed wheel"
+  },
+  {
+    "subject": "chain gear",
+    "relation": "used_for",
+    "object": "roller chain"
+  },
+  {
+    "subject": "chain gear",
+    "relation": "part_of",
+    "object": "bicycle rear wheel"
+  },
+  {
+    "subject": "perceptions",
+    "relation": "causes",
+    "object": "learning"
+  },
+  {
+    "subject": "perceptions",
+    "relation": "defined_by",
+    "object": "external stimuli"
+  },
+  {
+    "subject": "perceptions",
+    "relation": "defined_by",
+    "object": "sensations"
+  },
+  {
+    "subject": "perceptions",
+    "relation": "provides",
+    "object": "meaning"
+  },
+  {
+    "subject": "perceptions",
+    "relation": "affects",
+    "object": "experience"
+  },
+  {
+    "subject": "perceptions",
+    "relation": "affects",
+    "object": "factors"
+  },
+  {
+    "subject": "offset throw (crankshaft design)",
+    "relation": "synonym_of",
+    "object": "crank arm"
+  },
+  {
+    "subject": "offset throw (crankshaft design)",
+    "relation": "synonym_of",
+    "object": "throw"
+  },
+  {
+    "subject": "offset throw (crankshaft design)",
+    "relation": "part_of",
+    "object": "connecting rod"
+  },
+  {
+    "subject": "offset throw (crankshaft design)",
+    "relation": "part_of",
+    "object": "piston"
+  },
+  {
+    "subject": "offset throw (crankshaft design)",
+    "relation": "affects",
+    "object": "stroke"
+  },
+  {
+    "subject": "runway overrun (military aviation term)",
+    "relation": "is_a",
+    "object": "runway overrun (military aviation term)"
+  },
+  {
+    "subject": "runway overrun (military aviation term)",
+    "relation": "is_a",
+    "object": "stabilized or paved area"
+  },
+  {
+    "subject": "phugoid oscillation",
+    "relation": "is_a",
+    "object": "aircraft oscillation"
+  },
+  {
+    "subject": "phugoid oscillation",
+    "relation": "part_of",
+    "object": "pitch axis"
+  },
+  {
+    "subject": "phugoid oscillation",
+    "relation": "part_of",
+    "object": "lateral axis"
+  },
+  {
+    "subject": "phugoid oscillation",
+    "relation": "part_of",
+    "object": "longitudinal axis"
+  },
+  {
+    "subject": "phugoid oscillation",
+    "relation": "affects",
+    "object": "angle of attack"
+  },
+  {
+    "subject": "threshold (runway location)",
+    "relation": "part_of",
+    "object": "threshold (runway location)"
+  },
+  {
+    "subject": "threshold (runway location)",
+    "relation": "used_for",
+    "object": "threshold (runway location)"
+  },
+  {
+    "subject": "SAE (Society of Automotive Engineers)",
+    "relation": "is_a",
+    "object": "professional organization"
+  },
+  {
+    "subject": "SAE (Society of Automotive Engineers)",
+    "relation": "governed_by",
+    "object": "automotive industry"
+  },
+  {
+    "subject": "SAE (Society of Automotive Engineers)",
+    "relation": "governed_by",
+    "object": "aviation industry"
+  },
+  {
+    "subject": "oil dilution (reciprocating engine operation)",
+    "relation": "superseded_by",
+    "object": "multiviscosity oil"
+  },
+  {
+    "subject": "oil dilution (reciprocating engine operation)",
+    "relation": "affects",
+    "object": "lubricating oil"
+  },
+  {
+    "subject": "oil dilution (reciprocating engine operation)",
+    "relation": "used_for",
+    "object": "gasoline"
+  },
+  {
+    "subject": "oil dilution (reciprocating engine operation)",
+    "relation": "used_for",
+    "object": "reciprocating engine"
+  },
+  {
+    "subject": "oil dilution (reciprocating engine operation)",
+    "relation": "used_for",
+    "object": "low temperature"
+  },
+  {
+    "subject": "integrated display",
+    "relation": "is_a",
+    "object": "integrated display"
+  },
+  {
+    "subject": "integrated display",
+    "relation": "defined_by",
+    "object": "proximity compatibility principle"
+  },
+  {
+    "subject": "semiconductor transducer",
+    "relation": "is_a",
+    "object": "piezoelectric crystal"
+  },
+  {
+    "subject": "semiconductor transducer",
+    "relation": "measures",
+    "object": "pressure"
+  },
+  {
+    "subject": "semiconductor transducer",
+    "relation": "provides",
+    "object": "electrical signal"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "is_a",
+    "object": "computer memory"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "consists_of",
+    "object": "flip-flop circuit"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "consists_of",
+    "object": "capacitor"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "used_for",
+    "object": "static storage"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "used_for",
+    "object": "dynamic storage"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "instance_of",
+    "object": "ROM"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "instance_of",
+    "object": "RAM"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "opposite_of",
+    "object": "nonvolatile"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "opposite_of",
+    "object": "volatile"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "instance_of",
+    "object": "D-RAM"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "synonym_of",
+    "object": "read-only memory"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "synonym_of",
+    "object": "random-access-memory"
+  },
+  {
+    "subject": "semiconductor memory (computer memory)",
+    "relation": "synonym_of",
+    "object": "dynamic RAM"
+  },
+  {
+    "subject": "plumbing",
+    "relation": "consists_of",
+    "object": "tubing"
+  },
+  {
+    "subject": "plumbing",
+    "relation": "consists_of",
+    "object": "hoses"
+  },
+  {
+    "subject": "plumbing",
+    "relation": "used_for",
+    "object": "hydraulic system components"
+  },
+  {
+    "subject": "plumbing",
+    "relation": "used_for",
+    "object": "pneumatic system components"
+  },
+  {
+    "subject": "plumbing",
+    "relation": "used_for",
+    "object": "fuel"
+  },
+  {
+    "subject": "plumbing",
+    "relation": "used_for",
+    "object": "lubricating oil"
+  },
+  {
+    "subject": "Q-band radar",
+    "relation": "defined_by",
+    "object": "frequency band from 36 to 46 gigahertz"
+  },
+  {
+    "subject": "Q-band radar",
+    "relation": "defined_by",
+    "object": "wavelength of the energy is between 0.834 and 0.652 centimeter"
+  },
+  {
+    "subject": "mendelevium",
+    "relation": "abbreviation_of",
+    "object": "Md"
+  },
+  {
+    "subject": "mendelevium",
+    "relation": "instance_of",
+    "object": "101"
+  },
+  {
+    "subject": "mendelevium",
+    "relation": "part_of",
+    "object": "actinide series"
+  },
+  {
+    "subject": "mendelevium",
+    "relation": "is_a",
+    "object": "chemical element"
+  },
+  {
+    "subject": "metering (air traffic control)",
+    "relation": "controls",
+    "object": "arrival traffic flow"
+  },
+  {
+    "subject": "metering (air traffic control)",
+    "relation": "used_for",
+    "object": "terminal area"
+  },
+  {
+    "subject": "metering (air traffic control)",
+    "relation": "governed_by",
+    "object": "terminal acceptance rate"
+  },
+  {
+    "subject": "drogue",
+    "relation": "is_a",
+    "object": "drogue parachute"
+  },
+  {
+    "subject": "drogue",
+    "relation": "is_a",
+    "object": "sea anchor"
+  },
+  {
+    "subject": "drogue",
+    "relation": "part_of",
+    "object": "in-flight refueling hose"
+  },
+  {
+    "subject": "drogue",
+    "relation": "used_for",
+    "object": "airplane"
+  },
+  {
+    "subject": "drogue",
+    "relation": "used_for",
+    "object": "boat"
+  },
+  {
+    "subject": "drogue",
+    "relation": "used_for",
+    "object": "seaplane"
+  },
+  {
+    "subject": "integrated development environment (IDE)",
+    "relation": "is_a",
+    "object": "software application"
+  },
+  {
+    "subject": "integrated development environment (IDE)",
+    "relation": "instance_of",
+    "object": "standalone application"
+  },
+  {
+    "subject": "integrated development environment (IDE)",
+    "relation": "part_of",
+    "object": "existing and compatible applications"
+  },
+  {
+    "subject": "primary frequency (radio communications)",
+    "relation": "used_for",
+    "object": "air-ground communication"
+  },
+  {
+    "subject": "primary frequency (radio communications)",
+    "relation": "is_a",
+    "object": "radio frequency"
+  },
+  {
+    "subject": "additive (lubricating oil component)",
+    "relation": "is_a",
+    "object": "chemical"
+  },
+  {
+    "subject": "additive (lubricating oil component)",
+    "relation": "part_of",
+    "object": "engine lubricating oil"
+  },
+  {
+    "subject": "additive (lubricating oil component)",
+    "relation": "used_for",
+    "object": "prevent foaming"
+  },
+  {
+    "subject": "additive (lubricating oil component)",
+    "relation": "used_for",
+    "object": "improve viscosity index"
+  },
+  {
+    "subject": "additive (lubricating oil component)",
+    "relation": "used_for",
+    "object": "increase corrosion inhibiting properties"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "is_a",
+    "object": "engine failure"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "causes",
+    "object": "engine debris"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "affects",
+    "object": "airframe components"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "affects",
+    "object": "aircraft controls"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "affects",
+    "object": "nearby engines"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "affects",
+    "object": "cabin"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "affects",
+    "object": "passengers"
+  },
+  {
+    "subject": "uncontained engine failure",
+    "relation": "affects",
+    "object": "crew"
+  },
+  {
+    "subject": "armed",
+    "relation": "is_a",
+    "object": "ready for actuation"
+  },
+  {
+    "subject": "digital target (radar display)",
+    "relation": "is_a",
+    "object": "computer-generated symbol"
+  },
+  {
+    "subject": "digital target (radar display)",
+    "relation": "represents",
+    "object": "aircraft's position"
+  },
+  {
+    "subject": "digital target (radar display)",
+    "relation": "based_on",
+    "object": "primary return"
+  },
+  {
+    "subject": "digital target (radar display)",
+    "relation": "based_on",
+    "object": "radar beacon reply"
+  },
+  {
+    "subject": "digital target (radar display)",
+    "relation": "shown_on",
+    "object": "digital display"
+  },
+  {
+    "subject": "entropy",
+    "relation": "measures",
+    "object": "thermodynamic system"
+  },
+  {
+    "subject": "entropy",
+    "relation": "measures",
+    "object": "spontaneous change"
+  },
+  {
+    "subject": "board-foot",
+    "relation": "measures",
+    "object": "lumber"
+  },
+  {
+    "subject": "board-foot",
+    "relation": "defined_by",
+    "object": "144 cubic inches"
+  },
+  {
+    "subject": "parallel electrical circuit",
+    "relation": "is_a",
+    "object": "circuit"
+  },
+  {
+    "subject": "taper tap (thread-cutting tool)",
+    "relation": "is_a",
+    "object": "thread-cutting tap"
+  },
+  {
+    "subject": "electricity",
+    "relation": "opposite_of",
+    "object": "positive charge"
+  },
+  {
+    "subject": "electricity",
+    "relation": "opposite_of",
+    "object": "negative charge"
+  },
+  {
+    "subject": "electricity",
+    "relation": "causes",
+    "object": "electrical pressure"
+  },
+  {
+    "subject": "electricity",
+    "relation": "causes",
+    "object": "heat"
+  },
+  {
+    "subject": "electricity",
+    "relation": "causes",
+    "object": "magnetic field"
+  },
+  {
+    "subject": "oxygas welding",
+    "relation": "is_a",
+    "object": "welding"
+  },
+  {
+    "subject": "oxygas welding",
+    "relation": "consists_of",
+    "object": "fuel gas"
+  },
+  {
+    "subject": "oxygas welding",
+    "relation": "consists_of",
+    "object": "oxygen"
+  },
+  {
+    "subject": "oxygas welding",
+    "relation": "used_for",
+    "object": "torch"
+  },
+  {
+    "subject": "oxygas welding",
+    "relation": "produces",
+    "object": "heat"
+  },
+  {
+    "subject": "cascade reverser (thrust reverser)",
+    "relation": "synonym_of",
+    "object": "thrust reverser"
+  },
+  {
+    "subject": "cascade reverser (thrust reverser)",
+    "relation": "used_for",
+    "object": "turbofan engine"
+  },
+  {
+    "subject": "cascade reverser (thrust reverser)",
+    "relation": "consists_of",
+    "object": "blocker door"
+  },
+  {
+    "subject": "cascade reverser (thrust reverser)",
+    "relation": "consists_of",
+    "object": "cascade vanes"
+  },
+  {
+    "subject": "arithmetic sum",
+    "relation": "defined_by",
+    "object": "absolute value"
+  },
+  {
+    "subject": "nonenergizing brakes",
+    "relation": "synonym_of",
+    "object": "nonservo brakes"
+  },
+  {
+    "subject": "live center (machine tool component)",
+    "relation": "part_of",
+    "object": "headstock"
+  },
+  {
+    "subject": "live center (machine tool component)",
+    "relation": "part_of",
+    "object": "lathe"
+  },
+  {
+    "subject": "live center (machine tool component)",
+    "relation": "opposite_of",
+    "object": "dead center"
+  },
+  {
+    "subject": "live center (machine tool component)",
+    "relation": "used_for",
+    "object": "lathe dog"
+  },
+  {
+    "subject": "live center (machine tool component)",
+    "relation": "used_for",
+    "object": "faceplate"
+  },
+  {
+    "subject": "airport surveillance radar approach",
+    "relation": "is_a",
+    "object": "instrument approach"
+  },
+  {
+    "subject": "airport surveillance radar approach",
+    "relation": "controlled_by",
+    "object": "ATC"
+  },
+  {
+    "subject": "\"Delay indefinite [reason, if known] expect further clearance [time]\" (air traffic control)",
+    "relation": "defined_by",
+    "object": "Delay indefinite [reason, if known] expect further clearance [time]"
+  },
+  {
+    "subject": "\"Delay indefinite [reason, if known] expect further clearance [time]\" (air traffic control)",
+    "relation": "causes",
+    "object": "disabled aircraft on the runway"
+  },
+  {
+    "subject": "\"Delay indefinite [reason, if known] expect further clearance [time]\" (air traffic control)",
+    "relation": "causes",
+    "object": "terminal or center area saturation"
+  },
+  {
+    "subject": "\"Delay indefinite [reason, if known] expect further clearance [time]\" (air traffic control)",
+    "relation": "causes",
+    "object": "weather below landing minimums"
+  },
+  {
+    "subject": "countersink (verb)",
+    "relation": "used_for",
+    "object": "prepare a rivet hole for a flush rivet"
+  },
+  {
+    "subject": "countersink (verb)",
+    "relation": "defined_by",
+    "object": "beveling the edges of the holes with a cutter of the correct angle"
+  },
+  {
+    "subject": "fitting",
+    "relation": "is_a",
+    "object": "attachment device"
+  },
+  {
+    "subject": "fitting",
+    "relation": "used_for",
+    "object": "connect components"
+  },
+  {
+    "subject": "fitting",
+    "relation": "part_of",
+    "object": "aircraft structure"
+  },
+  {
+    "subject": "cotangent (trigonometric function)",
+    "relation": "is_a",
+    "object": "trigonometric function"
+  },
+  {
+    "subject": "cotangent (trigonometric function)",
+    "relation": "is_a",
+    "object": "ratio"
+  },
+  {
+    "subject": "Selsyn system",
+    "relation": "is_a",
+    "object": "DC synchro system"
+  },
+  {
+    "subject": "Selsyn system",
+    "relation": "is_a",
+    "object": "synchro system"
+  },
+  {
+    "subject": "agronautics",
+    "relation": "is_a",
+    "object": "agronautics"
+  },
+  {
+    "subject": "agronautics",
+    "relation": "part_of",
+    "object": "aviation industry"
+  },
+  {
+    "subject": "streamline flow",
+    "relation": "synonym_of",
+    "object": "laminar flow"
+  },
+  {
+    "subject": "streamline flow",
+    "relation": "opposite_of",
+    "object": "turbulent flow"
+  },
+  {
+    "subject": "grade-A cotton fabric (aircraft structural material)",
+    "relation": "consists_of",
+    "object": "long-staple cotton"
+  },
+  {
+    "subject": "grade-A cotton fabric (aircraft structural material)",
+    "relation": "used_for",
+    "object": "aircraft structures"
+  },
+  {
+    "subject": "grade-A cotton fabric (aircraft structural material)",
+    "relation": "measures",
+    "object": "80 threads per inch"
+  },
+  {
+    "subject": "grade-A cotton fabric (aircraft structural material)",
+    "relation": "measures",
+    "object": "84 threads per inch"
+  },
+  {
+    "subject": "grade-A cotton fabric (aircraft structural material)",
+    "relation": "measures",
+    "object": "80 pounds per inch"
+  },
+  {
+    "subject": "glow-discharge tube (electronic device)",
+    "relation": "is_a",
+    "object": "electron tube"
+  },
+  {
+    "subject": "glow-discharge tube (electronic device)",
+    "relation": "used_for",
+    "object": "voltage regulator circuit"
+  },
+  {
+    "subject": "glow-discharge tube (electronic device)",
+    "relation": "provides",
+    "object": "reference voltage"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "is_a",
+    "object": "inspection instrument"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "used_for",
+    "object": "examine inside of structure"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "provides",
+    "object": "light source"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "provides",
+    "object": "magnification"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "part_of",
+    "object": "camera"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "part_of",
+    "object": "video pickup"
+  },
+  {
+    "subject": "borescope (inspection instrument)",
+    "relation": "part_of",
+    "object": "television screen"
+  },
+  {
+    "subject": "athodyd",
+    "relation": "synonym_of",
+    "object": "ram-jet engine"
+  },
+  {
+    "subject": "athodyd",
+    "relation": "is_a",
+    "object": "open tube"
+  },
+  {
+    "subject": "final approach point",
+    "relation": "abbreviation_of",
+    "object": "FAP"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "is_a",
+    "object": "fluid pump"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "part_of",
+    "object": "venturi"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "removes",
+    "object": "vapor"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "used_for",
+    "object": "fuel"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "used_for",
+    "object": "fuel control unit"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "part_of",
+    "object": "main fuel pump"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "part_of",
+    "object": "fuel tank"
+  },
+  {
+    "subject": "jet pump (aircraft fuel system)",
+    "relation": "produces",
+    "object": "low pressure"
+  },
+  {
+    "subject": "weight",
+    "relation": "opposite_of",
+    "object": "mass"
+  },
+  {
+    "subject": "weight",
+    "relation": "measures",
+    "object": "force of gravity"
+  },
+  {
+    "subject": "cold light",
+    "relation": "is_a",
+    "object": "light"
+  },
+  {
+    "subject": "matching transformer (electrical component)",
+    "relation": "synonym_of",
+    "object": "impedance matching transformer"
+  },
+  {
+    "subject": "matching transformer (electrical component)",
+    "relation": "is_a",
+    "object": "electrical transformer"
+  },
+  {
+    "subject": "cat plates (composites)",
+    "relation": "is_a",
+    "object": "metal plates"
+  },
+  {
+    "subject": "cat plates (composites)",
+    "relation": "used_for",
+    "object": "composite lay-up"
+  },
+  {
+    "subject": "cat plates (composites)",
+    "relation": "used_for",
+    "object": "curing"
+  },
+  {
+    "subject": "cat plates (composites)",
+    "relation": "provides",
+    "object": "pressure"
+  },
+  {
+    "subject": "cat plates (composites)",
+    "relation": "provides",
+    "object": "heat"
+  },
+  {
+    "subject": "cat plates (composites)",
+    "relation": "affects",
+    "object": "finished laminate"
+  },
+  {
+    "subject": "carbon steel",
+    "relation": "is_a",
+    "object": "low-carbon steel"
+  },
+  {
+    "subject": "carbon steel",
+    "relation": "is_a",
+    "object": "high-carbon steel"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "is_a",
+    "object": "analog instrument"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "is_a",
+    "object": "digital instrument"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "consists_of",
+    "object": "analog form"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "consists_of",
+    "object": "digital readout"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "part_of",
+    "object": "dial"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "part_of",
+    "object": "pointer"
+  },
+  {
+    "subject": "indicating instrument",
+    "relation": "measures",
+    "object": "value"
+  },
+  {
+    "subject": "back voltage (counter- electromotive force)",
+    "relation": "synonym_of",
+    "object": "induced voltage"
+  },
+  {
+    "subject": "back voltage (counter- electromotive force)",
+    "relation": "synonym_of",
+    "object": "counter-electromotive force"
+  },
+  {
+    "subject": "zero (mathematical quantity)",
+    "relation": "is_a",
+    "object": "numerical quantity"
+  },
+  {
+    "subject": "zero (mathematical quantity)",
+    "relation": "used_for",
+    "object": "reference point"
+  },
+  {
+    "subject": "mouth, of a balloon envelope",
+    "relation": "synonym_of",
+    "object": "throat"
+  },
+  {
+    "subject": "voltammeter (electrical measuring instrument)",
+    "relation": "is_a",
+    "object": "voltmeter"
+  },
+  {
+    "subject": "voltammeter (electrical measuring instrument)",
+    "relation": "is_a",
+    "object": "ammeter"
+  },
+  {
+    "subject": "voltammeter (electrical measuring instrument)",
+    "relation": "measures",
+    "object": "voltage"
+  },
+  {
+    "subject": "voltammeter (electrical measuring instrument)",
+    "relation": "measures",
+    "object": "current"
+  },
+  {
+    "subject": "double-tapered wing (aerodynamic shape)",
+    "relation": "is_a",
+    "object": "tapered wing"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "is_a",
+    "object": "low-voltage turbine engine igniter"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "consists_of",
+    "object": "resistance element"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "consists_of",
+    "object": "insulated pin"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "consists_of",
+    "object": "igniter body"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "connected_to",
+    "object": "DC ignition exciter"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "ignites",
+    "object": "fuel-air mixture"
+  },
+  {
+    "subject": "glow-plug igniter (turbine engine ignition component)",
+    "relation": "part_of",
+    "object": "combustor"
+  },
+  {
+    "subject": "antiknock rating (antidetonation characteristics)",
+    "relation": "synonym_of",
+    "object": "octane rating"
+  },
+  {
+    "subject": "retarder (finishing system component)",
+    "relation": "is_a",
+    "object": "thinner"
+  },
+  {
+    "subject": "retarder (finishing system component)",
+    "relation": "used_for",
+    "object": "slow drying time"
+  },
+  {
+    "subject": "retarder (finishing system component)",
+    "relation": "used_for",
+    "object": "lacquer"
+  },
+  {
+    "subject": "retarder (finishing system component)",
+    "relation": "used_for",
+    "object": "dope"
+  },
+  {
+    "subject": "retarder (finishing system component)",
+    "relation": "prevents",
+    "object": "blush"
+  },
+  {
+    "subject": "ice fog (meteorology)",
+    "relation": "is_a",
+    "object": "obstruction to visibility"
+  },
+  {
+    "subject": "ice fog (meteorology)",
+    "relation": "consists_of",
+    "object": "tiny ice crystals"
+  },
+  {
+    "subject": "ice fog (meteorology)",
+    "relation": "causes",
+    "object": "halo"
+  },
+  {
+    "subject": "ace",
+    "relation": "is_a",
+    "object": "pilot"
+  },
+  {
+    "subject": "ace",
+    "relation": "defined_by",
+    "object": "World War I"
+  },
+  {
+    "subject": "periodic vibration",
+    "relation": "is_a",
+    "object": "vibration"
+  },
+  {
+    "subject": "periodic vibration",
+    "relation": "instance_of",
+    "object": "sine wave"
+  },
+  {
+    "subject": "periodic vibration",
+    "relation": "instance_of",
+    "object": "square wave"
+  },
+  {
+    "subject": "periodic vibration",
+    "relation": "instance_of",
+    "object": "sawtooth wave"
+  },
+  {
+    "subject": "strontium",
+    "relation": "is_a",
+    "object": "chemical element"
+  },
+  {
+    "subject": "strontium",
+    "relation": "abbreviation_of",
+    "object": "Sr"
+  },
+  {
+    "subject": "strontium",
+    "relation": "used_for",
+    "object": "pyrotechnic devices"
+  },
+  {
+    "subject": "TCH",
+    "relation": "abbreviation_of",
+    "object": "threshold crossing height"
+  },
+  {
+    "subject": "stress corrosion",
+    "relation": "is_a",
+    "object": "intergranular corrosion"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "is_a",
+    "object": "AC motor"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "consists_of",
+    "object": "rotor"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "consists_of",
+    "object": "soft iron laminations"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "consists_of",
+    "object": "steel rotor shaft"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "consists_of",
+    "object": "copper end plates"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "consists_of",
+    "object": "copper bars"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "part_of",
+    "object": "stator windings"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "part_of",
+    "object": "stator"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "causes",
+    "object": "alternating current"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "causes",
+    "object": "magnetic fields"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "causes",
+    "object": "current"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "causes",
+    "object": "magnetic field"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "governed_by",
+    "object": "rotor speed"
+  },
+  {
+    "subject": "squirrel-cage induction motor",
+    "relation": "governed_by",
+    "object": "frequency"
+  },
+  {
+    "subject": "rhumb line (navigation)",
+    "relation": "is_a",
+    "object": "rhumb line (navigation)"
+  },
+  {
+    "subject": "rhumb line (navigation)",
+    "relation": "is_a",
+    "object": "line"
+  },
+  {
+    "subject": "hearth furnace",
+    "relation": "is_a",
+    "object": "furnace"
+  },
+  {
+    "subject": "hearth furnace",
+    "relation": "used_for",
+    "object": "melt iron and steel"
+  },
+  {
+    "subject": "ATC (air traffic control)",
+    "relation": "abbreviation_of",
+    "object": "air traffic control"
+  },
+  {
+    "subject": "flock",
+    "relation": "is_a",
+    "object": "pulverized wool or cotton fibers mixed with an adhesive"
+  },
+  {
+    "subject": "flock",
+    "relation": "used_for",
+    "object": "protective finish"
+  },
+  {
+    "subject": "flock",
+    "relation": "used_for",
+    "object": "filtering element"
+  },
+  {
+    "subject": "distance measuring equipment",
+    "relation": "abbreviation_of",
+    "object": "DME"
+  },
+  {
+    "subject": "accelerate",
+    "relation": "affects",
+    "object": "speed"
+  },
+  {
+    "subject": "accelerate",
+    "relation": "affects",
+    "object": "object"
+  },
+  {
+    "subject": "Kollsman window",
+    "relation": "part_of",
+    "object": "barometric scale"
+  },
+  {
+    "subject": "two-stroke-cycle engine (reciprocating engine)",
+    "relation": "is_a",
+    "object": "reciprocating engine"
+  },
+  {
+    "subject": "two-stroke-cycle engine (reciprocating engine)",
+    "relation": "used_for",
+    "object": "ultralight aircraft"
+  },
+  {
+    "subject": "pressure altimeter",
+    "relation": "synonym_of",
+    "object": "pneumatic altimeter"
+  },
+  {
+    "subject": "cube (geometric figure)",
+    "relation": "is_a",
+    "object": "solid geometric figure"
+  },
+  {
+    "subject": "cube (geometric figure)",
+    "relation": "consists_of",
+    "object": "square sides"
+  },
+  {
+    "subject": "cube (geometric figure)",
+    "relation": "has_property",
+    "object": "right angles"
+  },
+  {
+    "subject": "cube (geometric figure)",
+    "relation": "has_property",
+    "object": "same length"
+  },
+  {
+    "subject": "global navigation satellite system (GNSS)",
+    "relation": "defined_by",
+    "object": "International Civil Aviation Organization (ICAO)"
+  },
+  {
+    "subject": "global navigation satellite system (GNSS)",
+    "relation": "is_a",
+    "object": "independent satellite navigation system"
+  },
+  {
+    "subject": "denitrogenation",
+    "relation": "affects",
+    "object": "altitude decompression sickness"
+  },
+  {
+    "subject": "denitrogenation",
+    "relation": "affects",
+    "object": "nitrogen"
+  },
+  {
+    "subject": "denitrogenation",
+    "relation": "used_for",
+    "object": "oxygen"
+  },
+  {
+    "subject": "deep sleep",
+    "relation": "is_a",
+    "object": "non-REM sleep"
+  },
+  {
+    "subject": "deep sleep",
+    "relation": "opposite_of",
+    "object": "light sleep"
+  },
+  {
+    "subject": "weft direction (fabric)",
+    "relation": "synonym_of",
+    "object": "woof"
+  },
+  {
+    "subject": "weft direction (fabric)",
+    "relation": "opposite_of",
+    "object": "warp threads"
+  },
+  {
+    "subject": "receiver",
+    "relation": "synonym_of",
+    "object": "listener"
+  },
+  {
+    "subject": "receiver",
+    "relation": "synonym_of",
+    "object": "reader"
+  },
+  {
+    "subject": "receiver",
+    "relation": "synonym_of",
+    "object": "student"
+  },
+  {
+    "subject": "PRICE check",
+    "relation": "part_of",
+    "object": "Pressure gauge"
+  },
+  {
+    "subject": "PRICE check",
+    "relation": "part_of",
+    "object": "Regulator"
+  },
+  {
+    "subject": "PRICE check",
+    "relation": "part_of",
+    "object": "Indicator"
+  },
+  {
+    "subject": "PRICE check",
+    "relation": "part_of",
+    "object": "hoses"
+  },
+  {
+    "subject": "PRICE check",
+    "relation": "part_of",
+    "object": "mask"
+  },
+  {
+    "subject": "PRICE check",
+    "relation": "part_of",
+    "object": "Emergency supply of oxygen"
+  },
+  {
+    "subject": "chemical reaction",
+    "relation": "synonym_of",
+    "object": "chemical change"
+  },
+  {
+    "subject": "chemical reaction",
+    "relation": "is_a",
+    "object": "chemical change"
+  },
+  {
+    "subject": "dowel",
+    "relation": "is_a",
+    "object": "wooden peg"
+  },
+  {
+    "subject": "dowel",
+    "relation": "used_for",
+    "object": "fasten pieces of wood"
+  },
+  {
+    "subject": "casing nail",
+    "relation": "is_a",
+    "object": "casing nail"
+  },
+  {
+    "subject": "casing nail",
+    "relation": "is_a",
+    "object": "wire nail"
+  },
+  {
+    "subject": "sinusoidal curve",
+    "relation": "synonym_of",
+    "object": "sine wave"
+  },
+  {
+    "subject": "bypass capacitor (electrical circuit component)",
+    "relation": "is_a",
+    "object": "capacitor"
+  },
+  {
+    "subject": "bypass capacitor (electrical circuit component)",
+    "relation": "provides",
+    "object": "low-impedance path"
+  },
+  {
+    "subject": "bypass capacitor (electrical circuit component)",
+    "relation": "used_for",
+    "object": "alternating current"
+  },
+  {
+    "subject": "bypass capacitor (electrical circuit component)",
+    "relation": "affects",
+    "object": "circuit component"
+  },
+  {
+    "subject": "ground (electrical reference point)",
+    "relation": "synonym_of",
+    "object": "earth"
+  },
+  {
+    "subject": "Type Certificate Data Sheet (TCDS)",
+    "relation": "superseded_by",
+    "object": "Aircraft Specifications"
+  },
+  {
+    "subject": "Type Certificate Data Sheet (TCDS)",
+    "relation": "issued_by",
+    "object": "Federal Aviation Administration"
+  },
+  {
+    "subject": "Type Certificate Data Sheet (TCDS)",
+    "relation": "contains",
+    "object": "specifications"
+  },
+  {
+    "subject": "Type Certificate Data Sheet (TCDS)",
+    "relation": "part_of",
+    "object": "aircraft"
+  },
+  {
+    "subject": "Type Certificate Data Sheet (TCDS)",
+    "relation": "part_of",
+    "object": "engine"
+  },
+  {
+    "subject": "Type Certificate Data Sheet (TCDS)",
+    "relation": "part_of",
+    "object": "propeller"
+  },
+  {
+    "subject": "touchdown zone (ICAO)",
+    "relation": "part_of",
+    "object": "runway"
+  },
+  {
+    "subject": "touchdown zone (ICAO)",
+    "relation": "defined_by",
+    "object": "threshold"
+  },
+  {
+    "subject": "bob weight (aircraft control system component)",
+    "relation": "part_of",
+    "object": "elevator control system"
+  },
+  {
+    "subject": "bob weight (aircraft control system component)",
+    "relation": "causes",
+    "object": "nose-down force"
+  },
+  {
+    "subject": "bob weight (aircraft control system component)",
+    "relation": "affects",
+    "object": "elevator trim tab"
+  },
+  {
+    "subject": "bob weight (aircraft control system component)",
+    "relation": "causes",
+    "object": "aerodynamic force"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "compared_with",
+    "object": "aluminum alloy"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "sheet or structural members"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "fluid-carrying lines"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "fluid system parts"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "wiring"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "air ducts"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "fittings"
+  },
+  {
+    "subject": "fire resistant",
+    "relation": "applies_to",
+    "object": "powerplant controls"
+  },
+  {
+    "subject": "lander (space vehicle)",
+    "relation": "is_a",
+    "object": "space vehicle"
+  },
+  {
+    "subject": "graphite",
+    "relation": "synonym_of",
+    "object": "black lead"
+  },
+  {
+    "subject": "graphite",
+    "relation": "used_for",
+    "object": "dry lubricant"
+  },
+  {
+    "subject": "graphite",
+    "relation": "used_for",
+    "object": "pencil lead"
+  },
+  {
+    "subject": "graphite",
+    "relation": "is_a",
+    "object": "structural graphite"
+  },
+  {
+    "subject": "graphite",
+    "relation": "used_for",
+    "object": "composite structure"
+  },
+  {
+    "subject": "ballooning (flight condition)",
+    "relation": "part_of",
+    "object": "landing roundout"
+  },
+  {
+    "subject": "ballooning (flight condition)",
+    "relation": "causes",
+    "object": "misjudgment of the rate of sink"
+  },
+  {
+    "subject": "buffer (digital electronic component)",
+    "relation": "is_a",
+    "object": "digital electronic component"
+  },
+  {
+    "subject": "buffer (digital electronic component)",
+    "relation": "used_for",
+    "object": "isolate an input"
+  },
+  {
+    "subject": "buffer (digital electronic component)",
+    "relation": "used_for",
+    "object": "strengthen a signal"
+  },
+  {
+    "subject": "brake back plate (aircraft landing gear component)",
+    "relation": "is_a",
+    "object": "brake back plate (aircraft landing gear component)"
+  },
+  {
+    "subject": "brake back plate (aircraft landing gear component)",
+    "relation": "is_a",
+    "object": "floating plate"
+  },
+  {
+    "subject": "brake back plate (aircraft landing gear component)",
+    "relation": "part_of",
+    "object": "energizing-type brake"
+  },
+  {
+    "subject": "brake back plate (aircraft landing gear component)",
+    "relation": "contains",
+    "object": "wheel cylinder"
+  },
+  {
+    "subject": "brake back plate (aircraft landing gear component)",
+    "relation": "contains",
+    "object": "brake shoes"
+  },
+  {
+    "subject": "template (layout tool)",
+    "relation": "is_a",
+    "object": "outline pattern"
+  },
+  {
+    "subject": "template (layout tool)",
+    "relation": "used_for",
+    "object": "tracing"
+  },
+  {
+    "subject": "template (layout tool)",
+    "relation": "provides",
+    "object": "saving time"
+  },
+  {
+    "subject": "secondary air (gas turbine engines)",
+    "relation": "is_a",
+    "object": "air"
+  },
+  {
+    "subject": "secondary air (gas turbine engines)",
+    "relation": "used_for",
+    "object": "cooling"
+  },
+  {
+    "subject": "xylene",
+    "relation": "is_a",
+    "object": "hydrocarbon fluid"
+  },
+  {
+    "subject": "xylene",
+    "relation": "used_for",
+    "object": "solvent"
+  },
+  {
+    "subject": "xylene",
+    "relation": "used_for",
+    "object": "additive"
+  },
+  {
+    "subject": "xylene",
+    "relation": "affects",
+    "object": "reciprocating engine fuels"
+  },
+  {
+    "subject": "charging stand (air conditioning service equipment)",
+    "relation": "is_a",
+    "object": "air conditioning servicing equipment"
+  },
+  {
+    "subject": "charging stand (air conditioning service equipment)",
+    "relation": "contains",
+    "object": "vacuum pump"
+  },
+  {
+    "subject": "charging stand (air conditioning service equipment)",
+    "relation": "contains",
+    "object": "manifold gage set"
+  },
+  {
+    "subject": "charging stand (air conditioning service equipment)",
+    "relation": "measures",
+    "object": "refrigerant"
+  },
+  {
+    "subject": "charging stand (air conditioning service equipment)",
+    "relation": "dispenses",
+    "object": "refrigerant"
+  },
+  {
+    "subject": "integrating circuit",
+    "relation": "is_a",
+    "object": "electronic circuit"
+  },
+  {
+    "subject": "pictorial realism",
+    "relation": "is_a",
+    "object": "display"
+  },
+  {
+    "subject": "pictorial realism",
+    "relation": "is_a",
+    "object": "control"
+  },
+  {
+    "subject": "air traffic control system command center",
+    "relation": "synonym_of",
+    "object": "ATCSCC"
+  },
+  {
+    "subject": "parallel resonant circuit (electronic circuit)",
+    "relation": "synonym_of",
+    "object": "tank circuit"
+  },
+  {
+    "subject": "Frise aileron (airplane control)",
+    "relation": "is_a",
+    "object": "aileron"
+  },
+  {
+    "subject": "Frise aileron (airplane control)",
+    "relation": "used_for",
+    "object": "lateral control"
+  },
+  {
+    "subject": "Frise aileron (airplane control)",
+    "relation": "causes",
+    "object": "parasite drag"
+  },
+  {
+    "subject": "Frise aileron (airplane control)",
+    "relation": "minimizes",
+    "object": "adverse yaw"
+  },
+  {
+    "subject": "burn (balloon operations)",
+    "relation": "defined_by",
+    "object": "activate the main blast valve"
+  },
+  {
+    "subject": "burn (balloon operations)",
+    "relation": "defined_by",
+    "object": "produce a full flame"
+  },
+  {
+    "subject": "burn (balloon operations)",
+    "relation": "used_for",
+    "object": "heating the air in the envelope"
+  },
+  {
+    "subject": "split bus",
+    "relation": "is_a",
+    "object": "electrical bus"
+  },
+  {
+    "subject": "split bus",
+    "relation": "isolates",
+    "object": "voltage-sensitive avionic equipment"
+  },
+  {
+    "subject": "split bus",
+    "relation": "part_of",
+    "object": "aircraft electrical system"
+  },
+  {
+    "subject": "plasma torch",
+    "relation": "used_for",
+    "object": "welding"
+  },
+  {
+    "subject": "plasma torch",
+    "relation": "used_for",
+    "object": "cutting"
+  },
+  {
+    "subject": "plasma torch",
+    "relation": "used_for",
+    "object": "spraying molten metal"
+  },
+  {
+    "subject": "fuel boost pump (aircraft fuel system component)",
+    "relation": "synonym_of",
+    "object": "auxiliary fuel pump"
+  },
+  {
+    "subject": "fuel boost pump (aircraft fuel system component)",
+    "relation": "used_for",
+    "object": "engine starting"
+  },
+  {
+    "subject": "fuel boost pump (aircraft fuel system component)",
+    "relation": "used_for",
+    "object": "emergency backup"
+  },
+  {
+    "subject": "fuel boost pump (aircraft fuel system component)",
+    "relation": "used_for",
+    "object": "fuel transfer"
+  },
+  {
+    "subject": "draftsman",
+    "relation": "is_a",
+    "object": "person"
+  },
+  {
+    "subject": "draftsman",
+    "relation": "opposite_of",
+    "object": "artist"
+  },
+  {
+    "subject": "spur gear pump",
+    "relation": "is_a",
+    "object": "constant-displacement fluid pump"
+  },
+  {
+    "subject": "spur gear pump",
+    "relation": "consists_of",
+    "object": "meshing spur gears"
+  },
+  {
+    "subject": "spur gear pump",
+    "relation": "part_of",
+    "object": "close-fitting housing"
+  },
+  {
+    "subject": "spur gear pump",
+    "relation": "contains",
+    "object": "fluid"
+  },
+  {
+    "subject": "spur gear pump",
+    "relation": "is_a",
+    "object": "fluid pump"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "opposite_of",
+    "object": "absolute pressure controller"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "is_a",
+    "object": "turbocharger controller"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "controls",
+    "object": "upper-deck pressure"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "governed_by",
+    "object": "throttle valve"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "consists_of",
+    "object": "bellows"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "controls",
+    "object": "valve"
+  },
+  {
+    "subject": "VAPC (variable absolute pressure controller)",
+    "relation": "controls",
+    "object": "valve seat"
+  },
+  {
+    "subject": "nibbler",
+    "relation": "is_a",
+    "object": "sheet-metal-working tool"
+  },
+  {
+    "subject": "Halon 1211",
+    "relation": "synonym_of",
+    "object": "bromochlorodifluoromethane"
+  },
+  {
+    "subject": "Halon 1211",
+    "relation": "is_a",
+    "object": "halogenated hydrocarbon fire-extinguishing agent"
+  },
+  {
+    "subject": "Halon 1211",
+    "relation": "used_for",
+    "object": "HRD (high-rate discharge) fire-extinguishing systems"
+  },
+  {
+    "subject": "logic functions (logic gates)",
+    "relation": "instance_of",
+    "object": "AND"
+  },
+  {
+    "subject": "logic functions (logic gates)",
+    "relation": "instance_of",
+    "object": "OR"
+  },
+  {
+    "subject": "logic functions (logic gates)",
+    "relation": "instance_of",
+    "object": "NOT"
+  },
+  {
+    "subject": "logic functions (logic gates)",
+    "relation": "instance_of",
+    "object": "NOR"
+  },
+  {
+    "subject": "logic functions (logic gates)",
+    "relation": "instance_of",
+    "object": "NAND"
+  },
+  {
+    "subject": "logic functions (logic gates)",
+    "relation": "instance_of",
+    "object": "EXCLUSIVE OR"
+  },
+  {
+    "subject": "barnstormers",
+    "relation": "is_a",
+    "object": "aviation pioneers"
+  },
+  {
+    "subject": "barnstormers",
+    "relation": "instance_of",
+    "object": "airport founders"
+  },
+  {
+    "subject": "compressive load (compressive stress)",
+    "relation": "is_a",
+    "object": "physical load"
+  },
+  {
+    "subject": "compressive load (compressive stress)",
+    "relation": "is_a",
+    "object": "stress"
+  },
+  {
+    "subject": "homing (ICAO)",
+    "relation": "used_for",
+    "object": "direction-finding equipment"
+  },
+  {
+    "subject": "homing (ICAO)",
+    "relation": "used_for",
+    "object": "radio station"
+  },
+  {
+    "subject": "homing (ICAO)",
+    "relation": "used_for",
+    "object": "mobile station"
+  },
+  {
+    "subject": "blimp",
+    "relation": "synonym_of",
+    "object": "nonrigid airship"
+  },
+  {
+    "subject": "blimp",
+    "relation": "synonym_of",
+    "object": "limp airship"
+  },
+  {
+    "subject": "hair hygrometer",
+    "relation": "measures",
+    "object": "humidity"
+  },
+  {
+    "subject": "hair hygrometer",
+    "relation": "consists_of",
+    "object": "human hair"
+  },
+  {
+    "subject": "hair hygrometer",
+    "relation": "consists_of",
+    "object": "spring"
+  },
+  {
+    "subject": "hair hygrometer",
+    "relation": "consists_of",
+    "object": "pointer"
+  },
+  {
+    "subject": "hair hygrometer",
+    "relation": "consists_of",
+    "object": "calibrated scale"
+  },
+  {
+    "subject": "kilomega (kM)",
+    "relation": "superseded_by",
+    "object": "giga"
+  },
+  {
+    "subject": "North Pacific (air traffic control)",
+    "relation": "is_a",
+    "object": "North Pacific (air traffic control)"
+  },
+  {
+    "subject": "North Pacific (air traffic control)",
+    "relation": "is_a",
+    "object": "organized route system"
+  },
+  {
+    "subject": "wind shear escape",
+    "relation": "is_a",
+    "object": "wind shear escape"
+  },
+  {
+    "subject": "wind shear escape",
+    "relation": "is_a",
+    "object": "abortive maneuver"
+  },
+  {
+    "subject": "wind shear escape",
+    "relation": "characterized_by",
+    "object": "maximum thrust climb"
+  },
+  {
+    "subject": "paint stripper",
+    "relation": "contains",
+    "object": "solvent"
+  },
+  {
+    "subject": "paint stripper",
+    "relation": "contains",
+    "object": "wax"
+  },
+  {
+    "subject": "paint stripper",
+    "relation": "used_for",
+    "object": "paint removal"
+  },
+  {
+    "subject": "paint stripper",
+    "relation": "affects",
+    "object": "lacquer"
+  },
+  {
+    "subject": "paint stripper",
+    "relation": "affects",
+    "object": "enamel"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "is_a",
+    "object": "maneuver"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "used_for",
+    "object": "reverse direction"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "part_of",
+    "object": "intermediate approach segment"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "part_of",
+    "object": "final approach course"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "consists_of",
+    "object": "outbound course"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "consists_of",
+    "object": "direction of turn"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "consists_of",
+    "object": "distance"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "consists_of",
+    "object": "minimum altitude"
+  },
+  {
+    "subject": "procedure turn (air traffic control)",
+    "relation": "controls",
+    "object": "pilot"
+  },
+  {
+    "subject": "torque wrench (precision measuring tool)",
+    "relation": "synonym_of",
+    "object": "deflecting-beam torque wrench"
+  },
+  {
+    "subject": "torque wrench (precision measuring tool)",
+    "relation": "is_a",
+    "object": "precision hand tool"
+  },
+  {
+    "subject": "torque wrench (precision measuring tool)",
+    "relation": "measures",
+    "object": "torque"
+  },
+  {
+    "subject": "jam nut",
+    "relation": "synonym_of",
+    "object": "check nut"
+  },
+  {
+    "subject": "deceleration error",
+    "relation": "synonym_of",
+    "object": "acceleration error"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "is_a",
+    "object": "oceanic published route (air traffic control)"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "is_a",
+    "object": "route"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "part_of",
+    "object": "international airspace"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "defined_by",
+    "object": "flight information publications"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "part_of",
+    "object": "Route Charts"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "part_of",
+    "object": "DOD En Route Charts"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "part_of",
+    "object": "Chart Supplements"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "part_of",
+    "object": "NOTAMs"
+  },
+  {
+    "subject": "oceanic published route (air traffic control)",
+    "relation": "part_of",
+    "object": "Track Messages"
+  },
+  {
+    "subject": "hovering ceiling (helicopter flight)",
+    "relation": "defined_by",
+    "object": "hovering ceiling (helicopter flight)"
+  },
+  {
+    "subject": "hovering ceiling (helicopter flight)",
+    "relation": "part_of",
+    "object": "in ground effect (IGE)"
+  },
+  {
+    "subject": "hovering ceiling (helicopter flight)",
+    "relation": "part_of",
+    "object": "out of ground effect (OGE)"
+  },
+  {
+    "subject": "blade sweeping (helicopter rotor)",
+    "relation": "affects",
+    "object": "chordwise balance"
+  },
+  {
+    "subject": "blade sweeping (helicopter rotor)",
+    "relation": "part_of",
+    "object": "drag brace"
+  },
+  {
+    "subject": "jettison",
+    "relation": "used_for",
+    "object": "jettison"
+  },
+  {
+    "subject": "jettison",
+    "relation": "affects",
+    "object": "fuel"
+  },
+  {
+    "subject": "radar vectoring (ICAO)",
+    "relation": "synonym_of",
+    "object": "radar vectoring"
+  },
+  {
+    "subject": "radar vectoring (ICAO)",
+    "relation": "provides",
+    "object": "navigational guidance"
+  },
+  {
+    "subject": "goniometer",
+    "relation": "measures",
+    "object": "angle"
+  },
+  {
+    "subject": "goniometer",
+    "relation": "used_for",
+    "object": "automatic direction finder"
+  },
+  {
+    "subject": "goniometer",
+    "relation": "consists_of",
+    "object": "fixed loop antenna"
+  },
+  {
+    "subject": "goniometer",
+    "relation": "consists_of",
+    "object": "nondirectional antenna"
+  },
+  {
+    "subject": "goniometer",
+    "relation": "consists_of",
+    "object": "directional antenna"
+  },
+  {
+    "subject": "sonic boom",
+    "relation": "causes",
+    "object": "shock wave"
+  },
+  {
+    "subject": "sonic boom",
+    "relation": "part_of",
+    "object": "cone"
+  },
+  {
+    "subject": "sonic boom",
+    "relation": "is_a",
+    "object": "loud explosive noise"
+  },
+  {
+    "subject": "plan view (aircraft drawing)",
+    "relation": "synonym_of",
+    "object": "top view"
+  },
+  {
+    "subject": "plan view (aircraft drawing)",
+    "relation": "part_of",
+    "object": "orthographic projection"
+  },
+  {
+    "subject": "\"Known traffic\" (air traffic control)",
+    "relation": "governed_by",
+    "object": "air traffic control"
+  },
+  {
+    "subject": "\"Known traffic\" (air traffic control)",
+    "relation": "controls",
+    "object": "aircraft"
+  },
+  {
+    "subject": "dehumidify",
+    "relation": "affects",
+    "object": "moisture"
+  },
+  {
+    "subject": "dehumidify",
+    "relation": "affects",
+    "object": "water vapor"
+  },
+  {
+    "subject": "dehumidify",
+    "relation": "causes",
+    "object": "condensation"
+  },
+  {
+    "subject": "dehumidify",
+    "relation": "used_for",
+    "object": "cooling system"
+  },
+  {
+    "subject": "dehumidify",
+    "relation": "causes",
+    "object": "liquid water"
+  },
+  {
+    "subject": "oil slinger",
+    "relation": "part_of",
+    "object": "rotating shaft"
+  },
+  {
+    "subject": "oil slinger",
+    "relation": "part_of",
+    "object": "oil seal"
+  },
+  {
+    "subject": "oil slinger",
+    "relation": "part_of",
+    "object": "engine crankcase"
+  },
+  {
+    "subject": "oil slinger",
+    "relation": "affects",
+    "object": "oil"
+  },
+  {
+    "subject": "noncommon route/portion",
+    "relation": "part_of",
+    "object": "noncommon route/portion"
+  },
+  {
+    "subject": "noncommon route/portion",
+    "relation": "part_of",
+    "object": "North American route"
+  },
+  {
+    "subject": "fishmouth splice (welded tubular structure)",
+    "relation": "is_a",
+    "object": "splice"
+  },
+  {
+    "subject": "fishmouth splice (welded tubular structure)",
+    "relation": "opposite_of",
+    "object": "butt splice"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "synonym_of",
+    "object": "condenser"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "is_a",
+    "object": "electrical component"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "consists_of",
+    "object": "two conductors"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "consists_of",
+    "object": "insulator"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "consists_of",
+    "object": "dielectric"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "used_for",
+    "object": "electrostatic field"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "measures",
+    "object": "farad"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "measures",
+    "object": "microfarad"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "measures",
+    "object": "picofarad"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "defined_by",
+    "object": "area of the plates"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "defined_by",
+    "object": "amount of separation between the plates"
+  },
+  {
+    "subject": "capacitor",
+    "relation": "defined_by",
+    "object": "kind of insulating material"
+  },
+  {
+    "subject": "impairment",
+    "relation": "synonym_of",
+    "object": "partial incapacitation"
+  },
+  {
+    "subject": "impairment",
+    "relation": "is_a",
+    "object": "incapacitation"
+  },
+  {
+    "subject": "transition altitude (QNH)",
+    "relation": "defined_by",
+    "object": "transition altitude (QNH)"
+  },
+  {
+    "subject": "transition altitude (QNH)",
+    "relation": "is_a",
+    "object": "altitude (MSL)"
+  },
+  {
+    "subject": "station",
+    "relation": "defined_by",
+    "object": "station"
+  },
+  {
+    "subject": "station",
+    "relation": "is_a",
+    "object": "location on an aircraft"
+  },
+  {
+    "subject": "station",
+    "relation": "measures",
+    "object": "distance in inches from the datum"
+  },
+  {
+    "subject": "subassembly",
+    "relation": "is_a",
+    "object": "subassembly"
+  },
+  {
+    "subject": "subassembly",
+    "relation": "is_a",
+    "object": "assembly"
+  },
+  {
+    "subject": "subassembly",
+    "relation": "part_of",
+    "object": "airplane"
+  },
+  {
+    "subject": "lockwire",
+    "relation": "synonym_of",
+    "object": "safety wire"
+  },
+  {
+    "subject": "lockwire",
+    "relation": "consists_of",
+    "object": "soft brass"
+  },
+  {
+    "subject": "lockwire",
+    "relation": "consists_of",
+    "object": "stainless steel"
+  },
+  {
+    "subject": "lockwire",
+    "relation": "consists_of",
+    "object": "galvanized low-carbon steel wire"
+  },
+  {
+    "subject": "lockwire",
+    "relation": "used_for",
+    "object": "fasteners"
+  },
+  {
+    "subject": "lockwire",
+    "relation": "prevents",
+    "object": "vibration"
+  },
+  {
+    "subject": "demulsibility",
+    "relation": "defined_by",
+    "object": "oil-water emulsion"
+  },
+  {
+    "subject": "demulsibility",
+    "relation": "consists_of",
+    "object": "water"
+  },
+  {
+    "subject": "demulsibility",
+    "relation": "consists_of",
+    "object": "oil"
+  },
+  {
+    "subject": "impurity (semiconductor material)",
+    "relation": "synonym_of",
+    "object": "donor atom"
+  },
+  {
+    "subject": "impurity (semiconductor material)",
+    "relation": "synonym_of",
+    "object": "acceptor atom"
+  },
+  {
+    "subject": "impurity (semiconductor material)",
+    "relation": "causes",
+    "object": "N-type material"
+  },
+  {
+    "subject": "impurity (semiconductor material)",
+    "relation": "causes",
+    "object": "P-type material"
+  },
+  {
+    "subject": "impurity (semiconductor material)",
+    "relation": "is_a",
+    "object": "pentavalent element"
+  },
+  {
+    "subject": "impurity (semiconductor material)",
+    "relation": "is_a",
+    "object": "trivalent element"
+  },
+  {
+    "subject": "\"ATC clears\" (air traffic control)",
+    "relation": "is_a",
+    "object": "ATC clearance"
+  },
+  {
+    "subject": "\"ATC clears\" (air traffic control)",
+    "relation": "governed_by",
+    "object": "air traffic controller"
+  },
+  {
+    "subject": "pinking shears",
+    "relation": "is_a",
+    "object": "scissors"
+  },
+  {
+    "subject": "pinking shears",
+    "relation": "is_a",
+    "object": "fabric-cutting scissors"
+  },
+  {
+    "subject": "pinking shears",
+    "relation": "used_for",
+    "object": "fabric"
+  },
+  {
+    "subject": "pinking shears",
+    "relation": "prevents",
+    "object": "raveling"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "is_a",
+    "object": "aircraft nose wheel tire"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "part_of",
+    "object": "deflector"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "part_of",
+    "object": "chine"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "part_of",
+    "object": "sidewall"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "part_of",
+    "object": "nose wheel"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "used_for",
+    "object": "jet aircraft"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "affects",
+    "object": "water"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "affects",
+    "object": "slush"
+  },
+  {
+    "subject": "chine tire",
+    "relation": "affects",
+    "object": "engines"
+  },
+  {
+    "subject": "satellite",
+    "relation": "is_a",
+    "object": "satellite"
+  },
+  {
+    "subject": "satellite",
+    "relation": "instance_of",
+    "object": "man-made satellite"
+  },
+  {
+    "subject": "satellite",
+    "relation": "used_for",
+    "object": "observation"
+  },
+  {
+    "subject": "satellite",
+    "relation": "used_for",
+    "object": "communication"
+  },
+  {
+    "subject": "rack-and-pinion actuator (fluid power actuator)",
+    "relation": "is_a",
+    "object": "rotary actuator"
+  },
+  {
+    "subject": "rack-and-pinion actuator (fluid power actuator)",
+    "relation": "part_of",
+    "object": "piston"
+  },
+  {
+    "subject": "rack-and-pinion actuator (fluid power actuator)",
+    "relation": "part_of",
+    "object": "rack"
+  },
+  {
+    "subject": "rack-and-pinion actuator (fluid power actuator)",
+    "relation": "part_of",
+    "object": "pinion gear"
+  },
+  {
+    "subject": "rack-and-pinion actuator (fluid power actuator)",
+    "relation": "acts_on",
+    "object": "fluid"
+  },
+  {
+    "subject": "speed adjustment (air traffic control)",
+    "relation": "governed_by",
+    "object": "air traffic control"
+  },
+  {
+    "subject": "speed adjustment (air traffic control)",
+    "relation": "is_a",
+    "object": "ATC procedure"
+  },
+  {
+    "subject": "speed adjustment (air traffic control)",
+    "relation": "used_for",
+    "object": "desired spacing"
+  },
+  {
+    "subject": "speed adjustment (air traffic control)",
+    "relation": "controls",
+    "object": "aircraft speed"
+  },
+  {
+    "subject": "cadmium cell (electrical standard cell)",
+    "relation": "is_a",
+    "object": "electrical standard cell"
+  },
+  {
+    "subject": "cadmium cell (electrical standard cell)",
+    "relation": "provides",
+    "object": "reference voltage"
+  },
+  {
+    "subject": "icing, light (meteorology)",
+    "relation": "is_a",
+    "object": "icing, light (meteorology)"
+  },
+  {
+    "subject": "icing, light (meteorology)",
+    "relation": "is_a",
+    "object": "icing"
+  },
+  {
+    "subject": "nondirectional beacon (air traffic control)",
+    "relation": "synonym_of",
+    "object": "NDB"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "synonym_of",
+    "object": "rotary converter"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "is_a",
+    "object": "electrical machine"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "converts",
+    "object": "low-voltage DC"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "converts",
+    "object": "high-voltage DC"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "consists_of",
+    "object": "two armatures"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "consists_of",
+    "object": "single rotating shaft"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "consists_of",
+    "object": "two sets of field coils"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "part_of",
+    "object": "low-voltage DC motor"
+  },
+  {
+    "subject": "dynamotor (electrical machine)",
+    "relation": "part_of",
+    "object": "high-voltage DC generator"
+  },
+  {
+    "subject": "nickel",
+    "relation": "is_a",
+    "object": "chemical element"
+  },
+  {
+    "subject": "nickel",
+    "relation": "abbreviation_of",
+    "object": "Ni"
+  },
+  {
+    "subject": "nickel",
+    "relation": "used_for",
+    "object": "plating"
+  },
+  {
+    "subject": "nickel",
+    "relation": "used_for",
+    "object": "alloy in steel"
+  },
+  {
+    "subject": "nickel",
+    "relation": "used_for",
+    "object": "making batteries"
+  },
+  {
+    "subject": "stability (meteorology)",
+    "relation": "opposite_of",
+    "object": "stability (meteorology)"
+  },
+  {
+    "subject": "stability (meteorology)",
+    "relation": "opposite_of",
+    "object": "instability (meteorology)"
+  },
+  {
+    "subject": "mock-up",
+    "relation": "is_a",
+    "object": "mock-up"
+  },
+  {
+    "subject": "mock-up",
+    "relation": "used_for",
+    "object": "training aid"
+  },
+  {
+    "subject": "boss",
+    "relation": "part_of",
+    "object": "casting"
+  },
+  {
+    "subject": "boss",
+    "relation": "part_of",
+    "object": "machined part"
+  },
+  {
+    "subject": "boss",
+    "relation": "used_for",
+    "object": "strengthen"
+  },
+  {
+    "subject": "usable fuel (GAMA)",
+    "relation": "used_for",
+    "object": "usable fuel (GAMA)"
+  },
+  {
+    "subject": "usable fuel (GAMA)",
+    "relation": "used_for",
+    "object": "flight planning"
+  },
+  {
+    "subject": "duct heater",
+    "relation": "synonym_of",
+    "object": "afterburner"
+  },
+  {
+    "subject": "cotter pin",
+    "relation": "synonym_of",
+    "object": "cotter key"
+  },
+  {
+    "subject": "climometer",
+    "relation": "synonym_of",
+    "object": "clinometer"
+  },
+  {
+    "subject": "climometer",
+    "relation": "part_of",
+    "object": "turn and slip indicator"
+  },
+  {
+    "subject": "climometer",
+    "relation": "part_of",
+    "object": "turn coordinator"
+  },
+  {
+    "subject": "climometer",
+    "relation": "measures",
+    "object": "relationship between the rate of turn and the angle of bank"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "is_a",
+    "object": "autopilot function"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "receives signals from",
+    "object": "GPS"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "receives signals from",
+    "object": "FMS"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "receives signals from",
+    "object": "RNAV"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "steers",
+    "object": "aircraft"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "steers along",
+    "object": "desired track"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "steers to",
+    "object": "active waypoint"
+  },
+  {
+    "subject": "global positioning system steering (GPSS)",
+    "relation": "set in",
+    "object": "GPS receiver"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "is_a",
+    "object": "single-point fueling"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "is_a",
+    "object": "fueling method"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "is_a",
+    "object": "aircraft fueling"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "consists_of",
+    "object": "fuel hose"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "consists_of",
+    "object": "fueling station"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "consists_of",
+    "object": "tank valves"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "contains",
+    "object": "fuel tank"
+  },
+  {
+    "subject": "single-point fueling (aircraft fueling)",
+    "relation": "used_for",
+    "object": "transport-type aircraft"
+  },
+  {
+    "subject": "free fit (threaded fastener)",
+    "relation": "is_a",
+    "object": "loose fit"
+  },
+  {
+    "subject": "free fit (threaded fastener)",
+    "relation": "used_for",
+    "object": "moving parts"
+  },
+  {
+    "subject": "inertia starter (reciprocating engine starter)",
+    "relation": "is_a",
+    "object": "starter"
+  },
+  {
+    "subject": "inertia starter (reciprocating engine starter)",
+    "relation": "consists_of",
+    "object": "flywheel"
+  },
+  {
+    "subject": "inertia starter (reciprocating engine starter)",
+    "relation": "consists_of",
+    "object": "electric motor"
+  },
+  {
+    "subject": "inertia starter (reciprocating engine starter)",
+    "relation": "consists_of",
+    "object": "hand crank"
+  },
+  {
+    "subject": "inertia starter (reciprocating engine starter)",
+    "relation": "affects",
+    "object": "crankshaft"
+  },
+  {
+    "subject": "inertia starter (reciprocating engine starter)",
+    "relation": "used_for",
+    "object": "reciprocating engine"
+  },
+  {
+    "subject": "large aircraft",
+    "relation": "is_a",
+    "object": "aircraft"
+  },
+  {
+    "subject": "large aircraft",
+    "relation": "defined_by",
+    "object": "maximum certificated takeoff weight"
+  },
+  {
+    "subject": "bayonet gage",
+    "relation": "synonym_of",
+    "object": "dip stick"
+  },
+  {
+    "subject": "jump seat",
+    "relation": "is_a",
+    "object": "removable seat"
+  },
+  {
+    "subject": "jump seat",
+    "relation": "used_for",
+    "object": "flight mechanic"
+  },
+  {
+    "subject": "jump seat",
+    "relation": "used_for",
+    "object": "observer"
+  },
+  {
+    "subject": "jump seat",
+    "relation": "controls",
+    "object": "instruments"
+  },
+  {
+    "subject": "jump seat",
+    "relation": "controls",
+    "object": "auxiliary controls"
+  },
+  {
+    "subject": "scheduled operation",
+    "relation": "is_a",
+    "object": "common carriage passenger-carrying operation"
+  },
+  {
+    "subject": "scheduled operation",
+    "relation": "opposite_of",
+    "object": "public charter operation"
+  },
+  {
+    "subject": "centrifugal clutch",
+    "relation": "is_a",
+    "object": "friction clutch"
+  },
+  {
+    "subject": "centrifugal clutch",
+    "relation": "consists_of",
+    "object": "flyweight mechanism"
+  },
+  {
+    "subject": "streamlined body",
+    "relation": "instance_of",
+    "object": "fish"
+  },
+  {
+    "subject": "streamlined body",
+    "relation": "opposite_of",
+    "object": "drag"
+  },
+  {
+    "subject": "law of conservation of energy",
+    "relation": "is_a",
+    "object": "basic law of physics"
+  },
+  {
+    "subject": "law of conservation of energy",
+    "relation": "governed_by",
+    "object": "energy"
+  },
+  {
+    "subject": "armature",
+    "relation": "part_of",
+    "object": "electric motor"
+  },
+  {
+    "subject": "armature",
+    "relation": "part_of",
+    "object": "generator"
+  },
+  {
+    "subject": "profile drag (aerodynamic drag)",
+    "relation": "is_a",
+    "object": "parasite drag"
+  },
+  {
+    "subject": "profile drag (aerodynamic drag)",
+    "relation": "synonym_of",
+    "object": "aerodynamic drag"
+  },
+  {
+    "subject": "view limiting device (instrument flight training device)",
+    "relation": "used_for",
+    "object": "instrument flight training device"
+  },
+  {
+    "subject": "view limiting device (instrument flight training device)",
+    "relation": "used_for",
+    "object": "instrument training"
+  },
+  {
+    "subject": "view limiting device (instrument flight training device)",
+    "relation": "affects",
+    "object": "pilot"
+  },
+  {
+    "subject": "view limiting device (instrument flight training device)",
+    "relation": "part_of",
+    "object": "instrument panel"
+  },
+  {
+    "subject": "drainage wind (meteorology)",
+    "relation": "is_a",
+    "object": "mountain wind"
+  },
+  {
+    "subject": "lampblack",
+    "relation": "is_a",
+    "object": "carbon"
+  },
+  {
+    "subject": "lampblack",
+    "relation": "used_for",
+    "object": "brushes for electric motors and generators"
+  },
+  {
+    "subject": "lampblack",
+    "relation": "used_for",
+    "object": "graphite in lead pencils"
+  },
+  {
+    "subject": "lampblack",
+    "relation": "used_for",
+    "object": "pigment in paint"
+  },
+  {
+    "subject": "lampblack",
+    "relation": "used_for",
+    "object": "mixing with rubber for making tires"
+  },
+  {
+    "subject": "arcing",
+    "relation": "synonym_of",
+    "object": "sparking"
+  },
+  {
+    "subject": "combination inertia starter (reciprocating engine starter)",
+    "relation": "is_a",
+    "object": "inertia starter"
+  },
+  {
+    "subject": "combination inertia starter (reciprocating engine starter)",
+    "relation": "used_for",
+    "object": "reciprocating engine"
+  },
+  {
+    "subject": "combination inertia starter (reciprocating engine starter)",
+    "relation": "consists_of",
+    "object": "electric motor"
+  },
+  {
+    "subject": "combination inertia starter (reciprocating engine starter)",
+    "relation": "consists_of",
+    "object": "hand crank"
+  },
+  {
+    "subject": "vertex (part of a cone)",
+    "relation": "synonym_of",
+    "object": "apex"
+  },
+  {
+    "subject": "rotary actuator",
+    "relation": "is_a",
+    "object": "rotary actuator"
+  },
+  {
+    "subject": "rotary actuator",
+    "relation": "instance_of",
+    "object": "hydraulic motor"
+  },
+  {
+    "subject": "tempering steel (heat treatment)",
+    "relation": "is_a",
+    "object": "heat treatment"
+  },
+  {
+    "subject": "tempering steel (heat treatment)",
+    "relation": "part_of",
+    "object": "hardening"
+  },
+  {
+    "subject": "tempering steel (heat treatment)",
+    "relation": "part_of",
+    "object": "quenching"
+  },
+  {
+    "subject": "tempering steel (heat treatment)",
+    "relation": "part_of",
+    "object": "reheating"
+  },
+  {
+    "subject": "tempering steel (heat treatment)",
+    "relation": "part_of",
+    "object": "cooling"
+  },
+  {
+    "subject": "ICA",
+    "relation": "abbreviation_of",
+    "object": "initial climb area"
+  },
+  {
+    "subject": "flight test",
+    "relation": "is_a",
+    "object": "flight test"
+  },
+  {
+    "subject": "flight test",
+    "relation": "is_a",
+    "object": "flight"
+  },
+  {
+    "subject": "sal ammoniac",
+    "relation": "synonym_of",
+    "object": "ammonium chloride"
+  },
+  {
+    "subject": "sal ammoniac",
+    "relation": "is_a",
+    "object": "ammonium chloride"
+  },
+  {
+    "subject": "sal ammoniac",
+    "relation": "part_of",
+    "object": "moist-paste electrolyte"
+  },
+  {
+    "subject": "sal ammoniac",
+    "relation": "used_for",
+    "object": "carbon-zinc flashlight batteries"
+  },
+  {
+    "subject": "PIN diode (semiconductor device)",
+    "relation": "is_a",
+    "object": "semiconductor diode"
+  },
+  {
+    "subject": "PIN diode (semiconductor device)",
+    "relation": "consists_of",
+    "object": "P-silicon"
+  },
+  {
+    "subject": "PIN diode (semiconductor device)",
+    "relation": "consists_of",
+    "object": "N-silicon"
+  },
+  {
+    "subject": "PIN diode (semiconductor device)",
+    "relation": "consists_of",
+    "object": "intrinsic silicon"
+  },
+  {
+    "subject": "PIN diode (semiconductor device)",
+    "relation": "used_for",
+    "object": "high-frequency switching circuits"
+  },
+  {
+    "subject": "bridge circuit (electrical circuit)",
+    "relation": "is_a",
+    "object": "electrical circuit"
+  },
+  {
+    "subject": "bridge circuit (electrical circuit)",
+    "relation": "instance_of",
+    "object": "balanced bridge"
+  },
+  {
+    "subject": "cones",
+    "relation": "opposite_of",
+    "object": "rods"
+  },
+  {
+    "subject": "bellows (pressure measuring device)",
+    "relation": "measures",
+    "object": "pressure"
+  },
+  {
+    "subject": "bellows (pressure measuring device)",
+    "relation": "is_a",
+    "object": "circular corrugated metal capsules"
+  },
+  {
+    "subject": "bellows (pressure measuring device)",
+    "relation": "consists_of",
+    "object": "evacuated or filled with an inert gas"
+  },
+  {
+    "subject": "bellows (pressure measuring device)",
+    "relation": "affects",
+    "object": "expand or contract"
+  },
+  {
+    "subject": "surface roughness (cylinder wall condition)",
+    "relation": "part_of",
+    "object": "cylinder wall"
+  },
+  {
+    "subject": "surface roughness (cylinder wall condition)",
+    "relation": "used_for",
+    "object": "lubricating oil"
+  },
+  {
+    "subject": "surface roughness (cylinder wall condition)",
+    "relation": "measures",
+    "object": "microinches rms"
+  },
+  {
+    "subject": "eccentric bushing (airplane rigging component)",
+    "relation": "is_a",
+    "object": "bushing"
+  },
+  {
+    "subject": "eccentric bushing (airplane rigging component)",
+    "relation": "part_of",
+    "object": "airplane wing"
+  },
+  {
+    "subject": "eccentric bushing (airplane rigging component)",
+    "relation": "part_of",
+    "object": "wing attachment fitting"
+  },
+  {
+    "subject": "eccentric bushing (airplane rigging component)",
+    "relation": "used_for",
+    "object": "adjust root incidence of the wing"
+  },
+  {
+    "subject": "crankshaft (reciprocating engine component)",
+    "relation": "part_of",
+    "object": "reciprocating engine"
+  },
+  {
+    "subject": "crankshaft (reciprocating engine component)",
+    "relation": "consists_of",
+    "object": "connecting rod"
+  },
+  {
+    "subject": "crankshaft (reciprocating engine component)",
+    "relation": "consists_of",
+    "object": "crankpin"
+  },
+  {
+    "subject": "crankshaft (reciprocating engine component)",
+    "relation": "drives",
+    "object": "propeller"
+  },
+  {
+    "subject": "crankshaft (reciprocating engine component)",
+    "relation": "drives",
+    "object": "rotor system transmission"
+  },
+  {
+    "subject": "anti- icing system (gas turbine engine system)",
+    "relation": "consists_of",
+    "object": "compressor bleed air"
+  },
+  {
+    "subject": "anti- icing system (gas turbine engine system)",
+    "relation": "part_of",
+    "object": "engine air inlet system"
+  },
+  {
+    "subject": "anti- icing system (gas turbine engine system)",
+    "relation": "used_for",
+    "object": "ice formation prevention"
+  },
+  {
+    "subject": "capacitive coupling (electronic circuit)",
+    "relation": "part_of",
+    "object": "electronic circuit"
+  },
+  {
+    "subject": "capacitive coupling (electronic circuit)",
+    "relation": "used_for",
+    "object": "capacitor"
+  },
+  {
+    "subject": "capacitive coupling (electronic circuit)",
+    "relation": "synonym_of",
+    "object": "AC coupling"
+  },
+  {
+    "subject": "organic brake lining",
+    "relation": "superseded_by",
+    "object": "asbestos brake linings"
+  },
+  {
+    "subject": "Class B fire",
+    "relation": "is_a",
+    "object": "fire"
+  },
+  {
+    "subject": "shielded wire",
+    "relation": "is_a",
+    "object": "electrical wire"
+  },
+  {
+    "subject": "shielded wire",
+    "relation": "consists_of",
+    "object": "braided metal jacket"
+  },
+  {
+    "subject": "shielded wire",
+    "relation": "affects",
+    "object": "electromagnetic energy"
+  },
+  {
+    "subject": "centigrade temperature",
+    "relation": "superseded_by",
+    "object": "Celsius temperature"
+  },
+  {
+    "subject": "cock",
+    "relation": "is_a",
+    "object": "valve"
+  },
+  {
+    "subject": "boundary layer (aerodynamics)",
+    "relation": "flows_next_to",
+    "object": "aerodynamic surface"
+  },
+  {
+    "subject": "boundary layer (aerodynamics)",
+    "relation": "causes",
+    "object": "aerodynamic drag"
+  },
+  {
+    "subject": "snubber (instrument component)",
+    "relation": "is_a",
+    "object": "restrictor fitting"
+  },
+  {
+    "subject": "snubber (instrument component)",
+    "relation": "part_of",
+    "object": "oil pressure gage"
+  },
+  {
+    "subject": "snubber (instrument component)",
+    "relation": "part_of",
+    "object": "pressure pump"
+  },
+  {
+    "subject": "snubber (instrument component)",
+    "relation": "affects",
+    "object": "indicator pointer"
+  },
+  {
+    "subject": "malleability",
+    "relation": "synonym_of",
+    "object": "ductility"
+  },
+  {
+    "subject": "malleability",
+    "relation": "synonym_of",
+    "object": "plasticity"
+  },
+  {
+    "subject": "malleability",
+    "relation": "is_a",
+    "object": "material property"
+  },
+  {
+    "subject": "flight data recorder",
+    "relation": "synonym_of",
+    "object": "FDR"
+  },
+  {
+    "subject": "obstacle free zone (OFZ) (air traffic control)",
+    "relation": "part_of",
+    "object": "runway OFZ"
+  },
+  {
+    "subject": "obstacle free zone (OFZ) (air traffic control)",
+    "relation": "part_of",
+    "object": "inner-approach OFZ"
+  },
+  {
+    "subject": "obstacle free zone (OFZ) (air traffic control)",
+    "relation": "part_of",
+    "object": "inner-transitional OFZ"
+  },
+  {
+    "subject": "obstacle free zone (OFZ) (air traffic control)",
+    "relation": "is_a",
+    "object": "airspace"
+  },
+  {
+    "subject": "obstacle free zone (OFZ) (air traffic control)",
+    "relation": "governed_by",
+    "object": "air traffic control"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "Army"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "Navy"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "Air Force"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "Marine Corps"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "Coast Guard"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "regular components"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "reserve components"
+  },
+  {
+    "subject": "Armed Forces",
+    "relation": "part_of",
+    "object": "members serving without component status"
+  },
+  {
+    "subject": "modular engine construction (gas turbine engines)",
+    "relation": "used_for",
+    "object": "gas turbine engines"
+  },
+  {
+    "subject": "modular engine construction (gas turbine engines)",
+    "relation": "consists_of",
+    "object": "modules"
+  },
+  {
+    "subject": "modular engine construction (gas turbine engines)",
+    "relation": "consists_of",
+    "object": "units"
+  },
+  {
+    "subject": "slotted nut",
+    "relation": "is_a",
+    "object": "hexagon nut"
+  },
+  {
+    "subject": "slotted nut",
+    "relation": "used_for",
+    "object": "cotter pin"
+  },
+  {
+    "subject": "slotted nut",
+    "relation": "part_of",
+    "object": "bolt"
+  },
+  {
+    "subject": "slotted nut",
+    "relation": "opposite_of",
+    "object": "castle nut"
+  },
+  {
+    "subject": "ferromagnetic material",
+    "relation": "is_a",
+    "object": "material"
+  },
+  {
+    "subject": "ferromagnetic material",
+    "relation": "contains",
+    "object": "iron"
+  },
+  {
+    "subject": "ferromagnetic material",
+    "relation": "has_property",
+    "object": "high magnetic permeability"
+  },
+  {
+    "subject": "ferromagnetic material",
+    "relation": "can_be",
+    "object": "magnetically saturated"
+  },
+  {
+    "subject": "ferromagnetic material",
+    "relation": "has_property",
+    "object": "good retentivity"
+  },
+  {
+    "subject": "ILS PRM approach",
+    "relation": "is_a",
+    "object": "ILS approach"
+  },
+  {
+    "subject": "ILS PRM approach",
+    "relation": "consists_of",
+    "object": "Precision Runway Monitoring system"
+  },
+  {
+    "subject": "ILS PRM approach",
+    "relation": "used_for",
+    "object": "parallel runways"
+  },
+  {
+    "subject": "ILS PRM approach",
+    "relation": "used_for",
+    "object": "simultaneous independent ILS approaches"
+  },
+  {
+    "subject": "canopy (aircraft structure)",
+    "relation": "part_of",
+    "object": "cockpit"
+  },
+  {
+    "subject": "canopy (aircraft structure)",
+    "relation": "is_a",
+    "object": "bubble"
+  },
+  {
+    "subject": "Invar",
+    "relation": "is_a",
+    "object": "alloy"
+  },
+  {
+    "subject": "Invar",
+    "relation": "consists_of",
+    "object": "63.8% iron, 36% nickel, and 0.2% carbon"
+  },
+  {
+    "subject": "Invar",
+    "relation": "used_for",
+    "object": "wire-wound resistors"
+  },
+  {
+    "subject": "runway centerline markings (RCLM)",
+    "relation": "part_of",
+    "object": "runway centerline"
+  },
+  {
+    "subject": "runway centerline markings (RCLM)",
+    "relation": "provides",
+    "object": "alignment guidance"
+  },
+  {
+    "subject": "civil aircraft",
+    "relation": "opposite_of",
+    "object": "public aircraft"
+  },
+  {
+    "subject": "polymer paint",
+    "relation": "is_a",
+    "object": "water-based paint"
+  },
+  {
+    "subject": "polymer paint",
+    "relation": "contains",
+    "object": "vinyl resins"
+  },
+  {
+    "subject": "polymer paint",
+    "relation": "contains",
+    "object": "acrylic resins"
+  },
+  {
+    "subject": "polymer paint",
+    "relation": "provides",
+    "object": "waterproof film"
+  },
+  {
+    "subject": "single-sideband radio transmission",
+    "relation": "is_a",
+    "object": "radio transmission"
+  },
+  {
+    "subject": "pulse length (radar technology)",
+    "relation": "synonym_of",
+    "object": "pulse duration"
+  },
+  {
+    "subject": "pulse length (radar technology)",
+    "relation": "synonym_of",
+    "object": "pulse length in linear units"
+  },
+  {
+    "subject": "pulse length (radar technology)",
+    "relation": "measures",
+    "object": "time duration"
+  },
+  {
+    "subject": "pulse length (radar technology)",
+    "relation": "calculates",
+    "object": "speed of propagation"
+  },
+  {
+    "subject": "pint contacts (electrical connectors)",
+    "relation": "synonym_of",
+    "object": "male contacts"
+  },
+  {
+    "subject": "pint contacts (electrical connectors)",
+    "relation": "part_of",
+    "object": "electrical connector"
+  },
+  {
+    "subject": "pint contacts (electrical connectors)",
+    "relation": "opposite_of",
+    "object": "sockets"
+  },
+  {
+    "subject": "pint contacts (electrical connectors)",
+    "relation": "opposite_of",
+    "object": "female contacts"
+  },
+  {
+    "subject": "earth induction compass (navigation instrument)",
+    "relation": "is_a",
+    "object": "navigation instrument"
+  },
+  {
+    "subject": "earth induction compass (navigation instrument)",
+    "relation": "consists_of",
+    "object": "flux valve"
+  },
+  {
+    "subject": "earth induction compass (navigation instrument)",
+    "relation": "used_for",
+    "object": "radio magnetic indicator (RMI)"
+  },
+  {
+    "subject": "earth induction compass (navigation instrument)",
+    "relation": "used_for",
+    "object": "direction indicator"
+  },
+  {
+    "subject": "transition level (QNE)",
+    "relation": "opposite_of",
+    "object": "transition altitude"
+  },
+  {
+    "subject": "transition level (QNE)",
+    "relation": "is_a",
+    "object": "flight level"
+  },
+  {
+    "subject": "mixing ratio (meteorology)",
+    "relation": "consists_of",
+    "object": "water vapor"
+  },
+  {
+    "subject": "mixing ratio (meteorology)",
+    "relation": "consists_of",
+    "object": "dry air"
+  },
+  {
+    "subject": "mixing ratio (meteorology)",
+    "relation": "measures",
+    "object": "grams per kilogram"
+  },
+  {
+    "subject": "niobium",
+    "relation": "is_a",
+    "object": "chemical element"
+  },
+  {
+    "subject": "niobium",
+    "relation": "abbreviation_of",
+    "object": "Nb"
+  },
+  {
+    "subject": "niobium",
+    "relation": "used_for",
+    "object": "alloying element for steel"
+  },
+  {
+    "subject": "niobium",
+    "relation": "used_for",
+    "object": "metal used in superconductivity research"
+  },
+  {
+    "subject": "inert-gas shielded-arc welding",
+    "relation": "is_a",
+    "object": "electric arc welding"
+  },
+  {
+    "subject": "inert-gas shielded-arc welding",
+    "relation": "consists_of",
+    "object": "argon"
+  },
+  {
+    "subject": "inert-gas shielded-arc welding",
+    "relation": "consists_of",
+    "object": "helium"
+  },
+  {
+    "subject": "inert-gas shielded-arc welding",
+    "relation": "affects",
+    "object": "oxygen"
+  },
+  {
+    "subject": "CSD (constant- speed drive)",
+    "relation": "drives",
+    "object": "AC generator"
+  },
+  {
+    "subject": "CSD (constant- speed drive)",
+    "relation": "provides",
+    "object": "constant speed"
+  },
+  {
+    "subject": "CSD (constant- speed drive)",
+    "relation": "used_with",
+    "object": "aircraft gas turbine"
+  },
+  {
+    "subject": "CSD (constant- speed drive)",
+    "relation": "used_with",
+    "object": "reciprocating engine"
+  },
+  {
+    "subject": "wattage rating (electrical component rating)",
+    "relation": "defined_by",
+    "object": "maximum power"
+  },
+  {
+    "subject": "landing direction indicator",
+    "relation": "instance_of",
+    "object": "wind cone"
+  },
+  {
+    "subject": "landing direction indicator",
+    "relation": "instance_of",
+    "object": "wind sock"
+  },
+  {
+    "subject": "landing direction indicator",
+    "relation": "instance_of",
+    "object": "tetrahedron"
+  },
+  {
+    "subject": "Carborundum",
+    "relation": "is_a",
+    "object": "abrasive"
+  },
+  {
+    "subject": "Carborundum",
+    "relation": "similar_to",
+    "object": "emery"
+  },
+  {
+    "subject": "Carborundum",
+    "relation": "used_for",
+    "object": "grinding wheel"
+  },
+  {
+    "subject": "Carborundum",
+    "relation": "used_for",
+    "object": "abrasive material"
+  },
+  {
+    "subject": "clearance fit",
+    "relation": "synonym_of",
+    "object": "free fit"
+  },
+  {
+    "subject": "mean camber",
+    "relation": "synonym_of",
+    "object": "mean camber line"
+  },
+  {
+    "subject": "mean camber",
+    "relation": "part_of",
+    "object": "airfoil section"
+  },
+  {
+    "subject": "mean camber",
+    "relation": "affects",
+    "object": "aerodynamic characteristics"
+  },
+  {
+    "subject": "lighted airport",
+    "relation": "is_a",
+    "object": "airport"
+  },
+  {
+    "subject": "lighted airport",
+    "relation": "consists_of",
+    "object": "runway lighting"
+  },
+  {
+    "subject": "lighted airport",
+    "relation": "consists_of",
+    "object": "obstruction lighting"
+  },
+  {
+    "subject": "deep discharge (batteries)",
+    "relation": "is_a",
+    "object": "maintenance procedure"
+  },
+  {
+    "subject": "deep discharge (batteries)",
+    "relation": "is_a",
+    "object": "discharging a battery"
+  },
+  {
+    "subject": "latitude",
+    "relation": "is_a",
+    "object": "angular measurement"
+  },
+  {
+    "subject": "latitude",
+    "relation": "measures",
+    "object": "distance"
+  },
+  {
+    "subject": "latitude",
+    "relation": "defined_by",
+    "object": "equator"
+  },
+  {
+    "subject": "latitude",
+    "relation": "measures",
+    "object": "degrees"
+  },
+  {
+    "subject": "latitude",
+    "relation": "measures",
+    "object": "minutes"
+  },
+  {
+    "subject": "latitude",
+    "relation": "measures",
+    "object": "seconds"
+  },
+  {
+    "subject": "latitude",
+    "relation": "consists_of",
+    "object": "parallels of latitude"
+  },
+  {
+    "subject": "latitude",
+    "relation": "instance_of",
+    "object": "north pole"
+  },
+  {
+    "subject": "latitude",
+    "relation": "instance_of",
+    "object": "south pole"
+  },
+  {
+    "subject": "radome",
+    "relation": "used_for",
+    "object": "radome"
+  },
+  {
+    "subject": "radome",
+    "relation": "contains",
+    "object": "radar antenna"
+  },
+  {
+    "subject": "radome",
+    "relation": "protects_from",
+    "object": "wind"
+  },
+  {
+    "subject": "radome",
+    "relation": "protects_from",
+    "object": "weather"
+  },
+  {
+    "subject": "Weather Message Switching Center Replacement (WMSCR)",
+    "relation": "is_a",
+    "object": "FAA telecommunications and computing infrastructure"
+  },
+  {
+    "subject": "Weather Message Switching Center Replacement (WMSCR)",
+    "relation": "part_of",
+    "object": "National Airspace System (NAS)"
+  },
+  {
+    "subject": "Weather Message Switching Center Replacement (WMSCR)",
+    "relation": "provides",
+    "object": "automated weather information"
+  },
+  {
+    "subject": "contrail",
+    "relation": "is_a",
+    "object": "visible trail"
+  },
+  {
+    "subject": "contrail",
+    "relation": "consists_of",
+    "object": "ice crystals"
+  },
+  {
+    "subject": "contrail",
+    "relation": "causes",
+    "object": "water vapor"
+  },
+  {
+    "subject": "contrail",
+    "relation": "affects",
+    "object": "sunlight"
+  },
+  {
+    "subject": "rosin joint (bad solder connection)",
+    "relation": "synonym_of",
+    "object": "bad solder connection"
+  },
+  {
+    "subject": "rosin joint (bad solder connection)",
+    "relation": "synonym_of",
+    "object": "cold solder joint"
+  },
+  {
+    "subject": "extended operations (ETOPS)",
+    "relation": "is_a",
+    "object": "airplane flight operation"
+  },
+  {
+    "subject": "extended operations (ETOPS)",
+    "relation": "governed_by",
+    "object": "14 CFR Part 121"
+  },
+  {
+    "subject": "extended operations (ETOPS)",
+    "relation": "governed_by",
+    "object": "14 CFR Part 135"
+  },
+  {
+    "subject": "extended operations (ETOPS)",
+    "relation": "calculated_by",
+    "object": "one-engine-inoperative cruise speed"
+  },
+  {
+    "subject": "core speed sensor (gas turbine engine instrument component)",
+    "relation": "is_a",
+    "object": "tachometer"
+  },
+  {
+    "subject": "core speed sensor (gas turbine engine instrument component)",
+    "relation": "measures",
+    "object": "high-pressure compressor (N2)"
+  },
+  {
+    "subject": "core speed sensor (gas turbine engine instrument component)",
+    "relation": "part_of",
+    "object": "two-spool gas turbine engine"
+  },
+  {
+    "subject": "continuous airworthiness inspection program",
+    "relation": "part_of",
+    "object": "continuous airworthiness maintenance program"
+  },
+  {
+    "subject": "continuous airworthiness inspection program",
+    "relation": "is_a",
+    "object": "inspection program"
+  },
+  {
+    "subject": "relief map",
+    "relation": "is_a",
+    "object": "relief map"
+  },
+  {
+    "subject": "relief map",
+    "relation": "is_a",
+    "object": "three-dimensional map"
+  },
+  {
+    "subject": "altocumulus (meteorology)",
+    "relation": "is_a",
+    "object": "cloud"
+  },
+  {
+    "subject": "altocumulus (meteorology)",
+    "relation": "consists_of",
+    "object": "liquid water droplets"
+  },
+  {
+    "subject": "altocumulus (meteorology)",
+    "relation": "contains",
+    "object": "ice crystals"
+  },
+  {
+    "subject": "plow wind (meteorology)",
+    "relation": "synonym_of",
+    "object": "plow wind (meteorology)"
+  },
+  {
+    "subject": "plow wind (meteorology)",
+    "relation": "synonym_of",
+    "object": "first gust"
+  },
+  {
+    "subject": "orthographic projection (graphics)",
+    "relation": "is_a",
+    "object": "orthographic projection"
+  },
+  {
+    "subject": "orthographic projection (graphics)",
+    "relation": "is_a",
+    "object": "multiview projection"
+  },
+  {
+    "subject": "metal",
+    "relation": "used_for",
+    "object": "conductor of electricity"
+  },
+  {
+    "subject": "metal",
+    "relation": "used_for",
+    "object": "conductor of heat"
+  },
+  {
+    "subject": "metal",
+    "relation": "causes",
+    "object": "positive ion"
+  },
+  {
+    "subject": "direct control (rotorcraft)",
+    "relation": "synonym_of",
+    "object": "cyclic pitch control"
+  },
+  {
+    "subject": "cyclonic flow (meteorology)",
+    "relation": "is_a",
+    "object": "cyclonic flow (meteorology)"
+  },
+  {
+    "subject": "cyclonic flow (meteorology)",
+    "relation": "synonym_of",
+    "object": "counterclockwise flow"
+  },
+  {
+    "subject": "cure (plastic resin condition)",
+    "relation": "part_of",
+    "object": "manufacture of parts made from plastic resins"
+  },
+  {
+    "subject": "cure (plastic resin condition)",
+    "relation": "causes",
+    "object": "change into a compound different from that of its components"
+  },
+  {
+    "subject": "presentation (in teaching/learning process)",
+    "relation": "part_of",
+    "object": "teaching process"
+  },
+  {
+    "subject": "presentation (in teaching/learning process)",
+    "relation": "used_for",
+    "object": "lecture method"
+  },
+  {
+    "subject": "presentation (in teaching/learning process)",
+    "relation": "used_for",
+    "object": "demonstration-performance method"
+  },
+  {
+    "subject": "presentation (in teaching/learning process)",
+    "relation": "instance_of",
+    "object": "telling-and-doing technique"
+  },
+  {
+    "subject": "steam gauges",
+    "relation": "synonym_of",
+    "object": "round dials"
+  },
+  {
+    "subject": "breakout (air traffic control)",
+    "relation": "used_for",
+    "object": "aircraft"
+  },
+  {
+    "subject": "breakout (air traffic control)",
+    "relation": "used_for",
+    "object": "approach stream"
+  },
+  {
+    "subject": "breakout (air traffic control)",
+    "relation": "used_for",
+    "object": "close parallel operations"
+  },
+  {
+    "subject": "breakout (air traffic control)",
+    "relation": "affects",
+    "object": "deviating aircraft"
+  },
+  {
+    "subject": "precision approach path indicator (PAPI)",
+    "relation": "is_a",
+    "object": "visual approach slope indicator"
+  },
+  {
+    "subject": "precision approach path indicator (PAPI)",
+    "relation": "abbreviation_of",
+    "object": "VASI"
+  },
+  {
+    "subject": "slip stick (mathematics)",
+    "relation": "synonym_of",
+    "object": "slide rule"
+  },
+  {
+    "subject": "infrasonic frequencies",
+    "relation": "synonym_of",
+    "object": "subsonic frequencies"
+  },
+  {
+    "subject": "cutout switch (electrical component)",
+    "relation": "part_of",
+    "object": "circuit"
+  },
+  {
+    "subject": "cutout switch (electrical component)",
+    "relation": "part_of",
+    "object": "electrical equipment"
+  },
+  {
+    "subject": "cutout switch (electrical component)",
+    "relation": "used_for",
+    "object": "open the circuit"
+  },
+  {
+    "subject": "winch",
+    "relation": "is_a",
+    "object": "machine"
+  },
+  {
+    "subject": "winch",
+    "relation": "used_for",
+    "object": "pulling or moving heavy loads"
+  },
+  {
+    "subject": "winch",
+    "relation": "consists_of",
+    "object": "cable"
+  },
+  {
+    "subject": "winch",
+    "relation": "part_of",
+    "object": "drum"
+  },
+  {
+    "subject": "winch",
+    "relation": "part_of",
+    "object": "hand crank"
+  },
+  {
+    "subject": "winch",
+    "relation": "part_of",
+    "object": "motor"
+  },
+  {
+    "subject": "aeronautics",
+    "relation": "is_a",
+    "object": "aeronautics"
+  },
+  {
+    "subject": "aeronautics",
+    "relation": "part_of",
+    "object": "aerodynamics"
+  },
+  {
+    "subject": "aeronautics",
+    "relation": "part_of",
+    "object": "aerostatics"
+  },
+  {
+    "subject": "separation (air traffic control)",
+    "relation": "affects",
+    "object": "aircraft"
+  },
+  {
+    "subject": "separation (air traffic control)",
+    "relation": "used_for",
+    "object": "safe and orderly movement"
+  },
+  {
+    "subject": "separation (air traffic control)",
+    "relation": "affects",
+    "object": "flight"
+  },
+  {
+    "subject": "separation (air traffic control)",
+    "relation": "affects",
+    "object": "landing"
+  },
+  {
+    "subject": "separation (air traffic control)",
+    "relation": "affects",
+    "object": "taking off"
+  },
+  {
+    "subject": "linseed oil",
+    "relation": "used_for",
+    "object": "drying agent"
+  },
+  {
+    "subject": "linseed oil",
+    "relation": "used_for",
+    "object": "rust preventive coating"
+  },
+  {
+    "subject": "global circulation system (meteorology)",
+    "relation": "is_a",
+    "object": "worldwide air circulation pattern"
+  },
+  {
+    "subject": "global circulation system (meteorology)",
+    "relation": "causes",
+    "object": "variations in insulation"
+  },
+  {
+    "subject": "global circulation system (meteorology)",
+    "relation": "causes",
+    "object": "Coriolis effect"
+  },
+  {
+    "subject": "global circulation system (meteorology)",
+    "relation": "causes",
+    "object": "earth's rotation"
+  },
+  {
+    "subject": "global circulation system (meteorology)",
+    "relation": "controls",
+    "object": "world's weather patterns"
+  },
+  {
+    "subject": "contact cement",
+    "relation": "is_a",
+    "object": "adhesive"
+  },
+  {
+    "subject": "magnesium",
+    "relation": "is_a",
+    "object": "chemical element"
+  },
+  {
+    "subject": "magnesium",
+    "relation": "abbreviation_of",
+    "object": "Mg"
+  },
+  {
+    "subject": "magnesium",
+    "relation": "used_for",
+    "object": "flares"
+  },
+  {
+    "subject": "magnesium",
+    "relation": "used_for",
+    "object": "structural material"
+  },
+  {
+    "subject": "duo-servo brakes (type of aircraft shoe brakes)",
+    "relation": "is_a",
+    "object": "shoe brake"
+  },
+  {
+    "subject": "kink (form of metal damage)",
+    "relation": "is_a",
+    "object": "sharp bend or twist"
+  },
+  {
+    "subject": "kink (form of metal damage)",
+    "relation": "part_of",
+    "object": "wire"
+  },
+  {
+    "subject": "kink (form of metal damage)",
+    "relation": "part_of",
+    "object": "tubing"
+  },
+  {
+    "subject": "kink (form of metal damage)",
+    "relation": "part_of",
+    "object": "sheet metal"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "is_a",
+    "object": "airspace corridor"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "part_of",
+    "object": "low altitude airspace"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "used_for",
+    "object": "VOR"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "used_for",
+    "object": "VORTAC"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "used_for",
+    "object": "navigation aid"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "used_for",
+    "object": "intersection"
+  },
+  {
+    "subject": "Victor airway",
+    "relation": "used_for",
+    "object": "en route procedures"
+  },
+  {
+    "subject": "sketch",
+    "relation": "is_a",
+    "object": "rough drawing"
+  },
+  {
+    "subject": "sketch",
+    "relation": "used_for",
+    "object": "illustrate a part or principle"
+  },
+  {
+    "subject": "augmented flight",
+    "relation": "consists_of",
+    "object": "augmented flight crew"
+  },
+  {
+    "subject": "augmented flight",
+    "relation": "opposite_of",
+    "object": "unaugmented flight"
+  },
+  {
+    "subject": "microfiche",
+    "relation": "instance_of",
+    "object": "fiche"
+  },
+  {
+    "subject": "microfiche",
+    "relation": "consists_of",
+    "object": "photographic film"
+  },
+  {
+    "subject": "microfiche",
+    "relation": "used_for",
+    "object": "reader"
+  },
+  {
+    "subject": "microfiche",
+    "relation": "used_for",
+    "object": "record storage"
+  },
+  {
+    "subject": "foil",
+    "relation": "consists_of",
+    "object": "metal"
+  },
+  {
+    "subject": "foil",
+    "relation": "is_a",
+    "object": "sheet"
+  },
+  {
+    "subject": "aborted takeoff",
+    "relation": "is_a",
+    "object": "takeoff"
+  },
+  {
+    "subject": "X-rays",
+    "relation": "is_a",
+    "object": "electromagnetic energy"
+  },
+  {
+    "subject": "X-rays",
+    "relation": "used_for",
+    "object": "producing photographic records"
+  },
+  {
+    "subject": "X-rays",
+    "relation": "used_for",
+    "object": "penetrating solid objects"
+  },
+  {
+    "subject": "bicycle landing gear",
+    "relation": "synonym_of",
+    "object": "bicycle landing gear"
+  },
+  {
+    "subject": "bicycle landing gear",
+    "relation": "synonym_of",
+    "object": "bogie landing gear"
+  },
+  {
+    "subject": "controlled time of arrival (air traffic control)",
+    "relation": "is_a",
+    "object": "estimated time of arrival"
+  },
+  {
+    "subject": "controlled time of arrival (air traffic control)",
+    "relation": "defined_by",
+    "object": "air traffic control system command center ground delay factor"
+  },
+  {
+    "subject": "compressor hub (turbine engine component)",
+    "relation": "part_of",
+    "object": "compressor blades"
+  },
+  {
+    "subject": "compressor hub (turbine engine component)",
+    "relation": "part_of",
+    "object": "axial-flow compressor"
+  },
+  {
+    "subject": "back taxi (air traffic control)",
+    "relation": "used_for",
+    "object": "aircraft"
+  },
+  {
+    "subject": "back taxi (air traffic control)",
+    "relation": "used_for",
+    "object": "runway"
+  },
+  {
+    "subject": "back taxi (air traffic control)",
+    "relation": "used_for",
+    "object": "departure"
+  },
+  {
+    "subject": "back taxi (air traffic control)",
+    "relation": "used_for",
+    "object": "exit the runway"
+  },
+  {
+    "subject": "spectrophotometer",
+    "relation": "measures",
+    "object": "light intensity"
+  },
+  {
+    "subject": "spectrophotometer",
+    "relation": "measures",
+    "object": "wavelength"
+  },
+  {
+    "subject": "barrier voltage (semiconductor parameter)",
+    "relation": "part_of",
+    "object": "forward-biased PN junction"
+  },
+  {
+    "subject": "barrier voltage (semiconductor parameter)",
+    "relation": "part_of",
+    "object": "semiconductor diode"
+  },
+  {
+    "subject": "barrier voltage (semiconductor parameter)",
+    "relation": "part_of",
+    "object": "transistor"
+  },
+  {
+    "subject": "barrier voltage (semiconductor parameter)",
+    "relation": "instance_of",
+    "object": "silicon diode"
+  },
+  {
+    "subject": "barrier voltage (semiconductor parameter)",
+    "relation": "instance_of",
+    "object": "germanium diode"
+  },
+  {
+    "subject": "allowable",
+    "relation": "synonym_of",
+    "object": "Permissible"
+  },
+  {
+    "subject": "RL circuit (electrical circuit)",
+    "relation": "is_a",
+    "object": "electrical circuit"
+  },
+  {
+    "subject": "low-pass filter (electronic filter)",
+    "relation": "is_a",
+    "object": "electronic filter"
+  },
+  {
+    "subject": "normal (geometry)",
+    "relation": "synonym_of",
+    "object": "perpendicular"
+  },
+  {
+    "subject": "self-centering chuck (machine tool component)",
+    "relation": "is_a",
+    "object": "chuck"
+  },
+  {
+    "subject": "self-centering chuck (machine tool component)",
+    "relation": "used_for",
+    "object": "drill motor"
+  },
+  {
+    "subject": "self-centering chuck (machine tool component)",
+    "relation": "used_for",
+    "object": "lathe"
+  },
+  {
+    "subject": "self-centering chuck (machine tool component)",
+    "relation": "consists_of",
+    "object": "jaws"
+  },
+  {
+    "subject": "self-centering chuck (machine tool component)",
+    "relation": "used_for",
+    "object": "drill"
+  },
+  {
+    "subject": "self-centering chuck (machine tool component)",
+    "relation": "used_for",
+    "object": "work"
+  },
+  {
+    "subject": "exerciser jack (aircraft landing gear maintenance tool)",
+    "relation": "is_a",
+    "object": "hydraulic jack"
+  },
+  {
+    "subject": "exerciser jack (aircraft landing gear maintenance tool)",
+    "relation": "used_for",
+    "object": "landing gear shock absorber"
+  },
+  {
+    "subject": "exerciser jack (aircraft landing gear maintenance tool)",
+    "relation": "part_of",
+    "object": "piston"
+  },
+  {
+    "subject": "exerciser jack (aircraft landing gear maintenance tool)",
+    "relation": "part_of",
+    "object": "shock absorber cylinder"
+  },
+  {
+    "subject": "wet-bulb temperature",
+    "relation": "opposite_of",
+    "object": "dry-bulb temperature"
+  },
+  {
+    "subject": "wet-bulb temperature",
+    "relation": "calculates",
+    "object": "relative humidity"
+  },
+  {
+    "subject": "particulates",
+    "relation": "is_a",
+    "object": "solid particles"
+  },
+  {
+    "subject": "particulates",
+    "relation": "part_of",
+    "object": "gas"
+  },
+  {
+    "subject": "stopway",
+    "relation": "part_of",
+    "object": "takeoff runway"
+  },
+  {
+    "subject": "stopway",
+    "relation": "used_for",
+    "object": "aborted takeoff"
+  },
+  {
+    "subject": "stopway",
+    "relation": "supports",
+    "object": "airplane"
+  },
+  {
+    "subject": "computer- based training (CBT)",
+    "relation": "synonym_of",
+    "object": "computer-based instruction (CBI)"
+  },
+  {
+    "subject": "flight crew",
+    "relation": "consists_of",
+    "object": "pilot"
+  },
+  {
+    "subject": "flight crew",
+    "relation": "consists_of",
+    "object": "flight engineer"
+  },
+  {
+    "subject": "flight crew",
+    "relation": "consists_of",
+    "object": "flight navigator"
+  },
+  {
+    "subject": "flight crew",
+    "relation": "consists_of",
+    "object": "captain"
+  },
+  {
+    "subject": "flight crew",
+    "relation": "consists_of",
+    "object": "first officer"
+  },
+  {
+    "subject": "flight crew",
+    "relation": "is_a",
+    "object": "crewed flight deck"
+  },
+  {
+    "subject": "Balloon Federation of America (BFA)",
+    "relation": "affiliated_with",
+    "object": "National Aeronautic Association"
+  },
+  {
+    "subject": "Balloon Federation of America (BFA)",
+    "relation": "used_for",
+    "object": "balloon pilots and enthusiasts in the United States"
+  },
+  {
+    "subject": "quadrilateral",
+    "relation": "is_a",
+    "object": "polygon"
+  },
+  {
+    "subject": "quadrilateral",
+    "relation": "instance_of",
+    "object": "square"
+  },
+  {
+    "subject": "quadrilateral",
+    "relation": "instance_of",
+    "object": "rectangle"
+  },
+  {
+    "subject": "quadrilateral",
+    "relation": "instance_of",
+    "object": "parallelogram"
+  },
+  {
+    "subject": "quadrilateral",
+    "relation": "instance_of",
+    "object": "trapezoid"
+  },
+  {
+    "subject": "gouge (airlines)",
+    "relation": "synonym_of",
+    "object": "interview gouge"
+  },
+  {
+    "subject": "Mach tuck (aerodynamics)",
+    "relation": "causes",
+    "object": "shock stall"
+  },
+  {
+    "subject": "Mach tuck (aerodynamics)",
+    "relation": "causes",
+    "object": "nose-down pitch"
+  },
+  {
+    "subject": "Mach tuck (aerodynamics)",
+    "relation": "affects",
+    "object": "swept wing airplane"
+  },
+  {
+    "subject": "flat spin (aircraft maneuver)",
+    "relation": "opposite_of",
+    "object": "normal spin"
+  },
+  {
+    "subject": "flat spin (aircraft maneuver)",
+    "relation": "is_a",
+    "object": "autorotation"
+  },
+  {
+    "subject": "flat spin (aircraft maneuver)",
+    "relation": "is_a",
+    "object": "aircraft maneuver"
+  },
+  {
+    "subject": "flat spin (aircraft maneuver)",
+    "relation": "causes",
+    "object": "center of gravity too far aft"
+  },
+  {
+    "subject": "galvanic grouping",
+    "relation": "synonym_of",
+    "object": "galvanic series"
+  },
+  {
+    "subject": "gain (electrical)",
+    "relation": "provided_by",
+    "object": "amplifier"
+  },
+  {
+    "subject": "willy-willy (meteorology)",
+    "relation": "is_a",
+    "object": "tropical cyclone"
+  },
+  {
+    "subject": "willy-willy (meteorology)",
+    "relation": "is_a",
+    "object": "dust devil"
+  },
+  {
+    "subject": "short-field landing",
+    "relation": "is_a",
+    "object": "landing technique"
+  },
+  {
+    "subject": "laminated wood",
+    "relation": "is_a",
+    "object": "wood product"
+  },
+  {
+    "subject": "laminated wood",
+    "relation": "consists_of",
+    "object": "thin strips of wood"
+  },
+  {
+    "subject": "laminated wood",
+    "relation": "used_for",
+    "object": "wooden propeller"
+  },
+  {
+    "subject": "General Aviation Airworthiness Alerts",
+    "relation": "defined_by",
+    "object": "Malfunction and Defect Report"
+  },
+  {
+    "subject": "General Aviation Airworthiness Alerts",
+    "relation": "provided_by",
+    "object": "FAA"
+  },
+  {
+    "subject": "Coverite surface thermometer",
+    "relation": "is_a",
+    "object": "bimetallic thermometer"
+  },
+  {
+    "subject": "Coverite surface thermometer",
+    "relation": "used_for",
+    "object": "calibrate the temperature of an iron"
+  },
+  {
+    "subject": "thread (textiles)",
+    "relation": "is_a",
+    "object": "monofilament threads"
+  },
+  {
+    "subject": "thread (textiles)",
+    "relation": "consists_of",
+    "object": "synthetic materials"
+  },
+  {
+    "subject": "thread (textiles)",
+    "relation": "consists_of",
+    "object": "natural fibers"
+  },
+  {
+    "subject": "thread (textiles)",
+    "relation": "instance_of",
+    "object": "cotton"
+  },
+  {
+    "subject": "thread (textiles)",
+    "relation": "instance_of",
+    "object": "linen"
+  },
+  {
+    "subject": "substrate",
+    "relation": "is_a",
+    "object": "wafer"
+  },
+  {
+    "subject": "substrate",
+    "relation": "consists_of",
+    "object": "semiconductor material"
+  },
+  {
+    "subject": "configuration",
+    "relation": "part_of",
+    "object": "airplane"
+  },
+  {
+    "subject": "configuration",
+    "relation": "instance_of",
+    "object": "low-wing monoplane"
+  },
+  {
+    "subject": "configuration",
+    "relation": "instance_of",
+    "object": "biplane"
+  },
+  {
+    "subject": "configuration",
+    "relation": "instance_of",
+    "object": "V-tail"
+  },
+  {
+    "subject": "configuration",
+    "relation": "instance_of",
+    "object": "tricycle landing gear"
+  },
+  {
+    "subject": "configuration",
+    "relation": "consists_of",
+    "object": "landing gear"
+  },
+  {
+    "subject": "configuration",
+    "relation": "consists_of",
+    "object": "flaps"
+  },
+  {
+    "subject": "configuration",
+    "relation": "instance_of",
+    "object": "landing configuration"
+  },
+  {
+    "subject": "preferred values (electrical components)",
+    "relation": "used_for",
+    "object": "resistors"
+  },
+  {
+    "subject": "preferred values (electrical components)",
+    "relation": "used_for",
+    "object": "capacitors"
+  },
+  {
+    "subject": "preferred values (electrical components)",
+    "relation": "defined_by",
+    "object": "Electronic Industries Association"
+  },
+  {
+    "subject": "preferred values (electrical components)",
+    "relation": "defined_by",
+    "object": "military services"
+  },
+  {
+    "subject": "terminal radar approach control (TRACON)",
+    "relation": "is_a",
+    "object": "air traffic control facility"
+  },
+  {
+    "subject": "terminal radar approach control (TRACON)",
+    "relation": "provides",
+    "object": "radar services"
+  },
+  {
+    "subject": "terminal radar approach control (TRACON)",
+    "relation": "provides",
+    "object": "nonradar services"
+  },
+  {
+    "subject": "terminal radar approach control (TRACON)",
+    "relation": "ensures",
+    "object": "safe separation of aircraft"
+  },
+  {
+    "subject": "aerodynamic heating",
+    "relation": "is_a",
+    "object": "temperature rise"
+  },
+  {
+    "subject": "aerodynamic heating",
+    "relation": "causes",
+    "object": "friction"
+  },
+  {
+    "subject": "residual magnetic flux",
+    "relation": "is_a",
+    "object": "magnetic flux"
+  },
+  {
+    "subject": "residual magnetic flux",
+    "relation": "affects",
+    "object": "soft iron"
+  },
+  {
+    "subject": "residual magnetic flux",
+    "relation": "affects",
+    "object": "hard steel"
+  },
+  {
+    "subject": "residual magnetic flux",
+    "relation": "affects",
+    "object": "certain alloys"
+  },
+  {
+    "subject": "radar service",
+    "relation": "consists_of",
+    "object": "radar monitoring"
+  },
+  {
+    "subject": "radar service",
+    "relation": "consists_of",
+    "object": "radar navigational guidance"
+  },
+  {
+    "subject": "radar service",
+    "relation": "consists_of",
+    "object": "radar separation"
+  },
+  {
+    "subject": "radar service",
+    "relation": "provided_by",
+    "object": "controller"
+  },
+  {
+    "subject": "radar service",
+    "relation": "provided_to",
+    "object": "pilot"
+  },
+  {
+    "subject": "radar service",
+    "relation": "provided_to",
+    "object": "radar-identified aircraft"
+  },
+  {
+    "subject": "Mach buffet",
+    "relation": "is_a",
+    "object": "Mach buffet"
+  },
+  {
+    "subject": "Mach buffet",
+    "relation": "is_a",
+    "object": "buffet"
+  },
+  {
+    "subject": "Mach buffet",
+    "relation": "instance_of",
+    "object": "low-speed Mach buffet"
+  },
+  {
+    "subject": "deuterium",
+    "relation": "is_a",
+    "object": "hydrogen"
+  },
+  {
+    "subject": "deuterium",
+    "relation": "instance_of",
+    "object": "isotope"
+  },
+  {
+    "subject": "multimedia",
+    "relation": "is_a",
+    "object": "instructional medium"
+  },
+  {
+    "subject": "multimedia",
+    "relation": "implies",
+    "object": "computer-based presentation"
+  },
+  {
+    "subject": "afterfiring (turbine engine)",
+    "relation": "causes",
+    "object": "afterfiring (turbine engine)"
+  },
+  {
+    "subject": "afterfiring (turbine engine)",
+    "relation": "defined_by",
+    "object": "afterfiring (turbine engine)"
+  },
+  {
+    "subject": "takeoff clearance",
+    "relation": "is_a",
+    "object": "ATC authorization"
+  },
+  {
+    "subject": "takeoff clearance",
+    "relation": "used_for",
+    "object": "aircraft departure"
+  },
+  {
+    "subject": "takeoff clearance",
+    "relation": "governed_by",
+    "object": "runway"
+  },
+  {
+    "subject": "IFR conditions",
+    "relation": "opposite_of",
+    "object": "IFR conditions"
+  },
+  {
+    "subject": "IFR conditions",
+    "relation": "opposite_of",
+    "object": "visual flight rules"
+  },
+  {
+    "subject": "unusable fuel (aircraft specification)",
+    "relation": "synonym_of",
+    "object": "residual fuel"
+  },
+  {
+    "subject": "ADS- B Out",
+    "relation": "part_of",
+    "object": "automatic dependent surveillance-broadcast (ADS-B)"
+  },
+  {
+    "subject": "ADS- B Out",
+    "relation": "opposite_of",
+    "object": "ADS-B In"
+  },
+  {
+    "subject": "blade coning angle (helicopter rotor blade)",
+    "relation": "causes",
+    "object": "centrifugal force"
+  },
+  {
+    "subject": "blade coning angle (helicopter rotor blade)",
+    "relation": "causes",
+    "object": "lift"
+  },
+  {
+    "subject": "blade coning angle (helicopter rotor blade)",
+    "relation": "defined_by",
+    "object": "rotor mast"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "part_of",
+    "object": "enroute ATC system"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "consists_of",
+    "object": "radar"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "consists_of",
+    "object": "computers"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "consists_of",
+    "object": "computer programs"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "consists_of",
+    "object": "controller plan view displays (PVDs/radar scopes)"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "consists_of",
+    "object": "input/output devices"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "consists_of",
+    "object": "communications equipment"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "performs",
+    "object": "flight data processing (FDP)"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "performs",
+    "object": "radar data processing (RDP)"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "interfaces_with",
+    "object": "automated terminal systems"
+  },
+  {
+    "subject": "NAS stage A (air traffic control)",
+    "relation": "controls",
+    "object": "enroute IFR aircraft"
+  },
+  {
+    "subject": "modification",
+    "relation": "synonym_of",
+    "object": "alteration"
+  },
+  {
+    "subject": "modification",
+    "relation": "synonym_of",
+    "object": "change"
+  },
+  {
+    "subject": "SDF",
+    "relation": "abbreviation_of",
+    "object": "simplified directional facility"
+  },
+  {
+    "subject": "warm-up time",
+    "relation": "defined_by",
+    "object": "warm-up time"
+  },
+  {
+    "subject": "warm-up time",
+    "relation": "affects",
+    "object": "normal operating temperature"
+  },
+  {
+    "subject": "Mach technique (ICAO)",
+    "relation": "used_for",
+    "object": "air traffic control"
+  },
+  {
+    "subject": "Mach technique (ICAO)",
+    "relation": "controls",
+    "object": "turbojet aircraft"
+  },
+  {
+    "subject": "Mach technique (ICAO)",
+    "relation": "measures",
+    "object": "Mach numbers"
+  },
+  {
+    "subject": "Mach technique (ICAO)",
+    "relation": "part_of",
+    "object": "enroute phase of flight"
+  },
+  {
+    "subject": "Mach technique (ICAO)",
+    "relation": "provides",
+    "object": "improved utilization of the airspace"
+  },
+  {
+    "subject": "Mach technique (ICAO)",
+    "relation": "affects",
+    "object": "separation between successive aircraft"
+  },
+  {
+    "subject": "P-time",
+    "relation": "synonym_of",
+    "object": "proposed departure time"
+  },
+  {
+    "subject": "traffic management unit",
+    "relation": "part_of",
+    "object": "ARTCCs"
+  },
+  {
+    "subject": "traffic management unit",
+    "relation": "part_of",
+    "object": "terminals"
+  },
+  {
+    "subject": "traffic management unit",
+    "relation": "governed_by",
+    "object": "assistant manager for traffic management"
+  },
+  {
+    "subject": "secondary color",
+    "relation": "is_a",
+    "object": "color"
+  },
+  {
+    "subject": "secondary color",
+    "relation": "consists_of",
+    "object": "primary color"
+  },
+  {
+    "subject": "passive component (electrical component)",
+    "relation": "opposite_of",
+    "object": "active component"
+  },
+  {
+    "subject": "passive component (electrical component)",
+    "relation": "is_a",
+    "object": "resistor"
+  },
+  {
+    "subject": "passive component (electrical component)",
+    "relation": "is_a",
+    "object": "capacitor"
+  },
+  {
+    "subject": "passive component (electrical component)",
+    "relation": "is_a",
+    "object": "inductor"
+  },
+  {
+    "subject": "antiglare paint",
+    "relation": "is_a",
+    "object": "paint"
+  },
+  {
+    "subject": "antiglare paint",
+    "relation": "used_for",
+    "object": "prevent glare"
+  },
+  {
+    "subject": "oil wiper ring (reciprocating engine component)",
+    "relation": "controls",
+    "object": "oil control ring"
+  },
+  {
+    "subject": "oil wiper ring (reciprocating engine component)",
+    "relation": "part_of",
+    "object": "piston"
+  },
+  {
+    "subject": "oil wiper ring (reciprocating engine component)",
+    "relation": "is_a",
+    "object": "cast-iron ring"
+  },
+  {
+    "subject": "T-tail (aircraft configuration)",
+    "relation": "is_a",
+    "object": "T-tail (aircraft configuration)"
+  },
+  {
+    "subject": "T-tail (aircraft configuration)",
+    "relation": "part_of",
+    "object": "aircraft empennage"
+  },
+  {
+    "subject": "T-tail (aircraft configuration)",
+    "relation": "consists_of",
+    "object": "horizontal stabilizer"
+  },
+  {
+    "subject": "T-tail (aircraft configuration)",
+    "relation": "consists_of",
+    "object": "vertical stabilizer"
+  },
+  {
+    "subject": "area control center (ICAO)",
+    "relation": "synonym_of",
+    "object": "air route traffic control center (ARTCC)"
+  },
+  {
+    "subject": "axial- flow compressor (gas turbine engine component)",
+    "relation": "is_a",
+    "object": "compressor"
+  },
+  {
+    "subject": "axial- flow compressor (gas turbine engine component)",
+    "relation": "part_of",
+    "object": "gas turbine engine"
+  },
+  {
+    "subject": "axial- flow compressor (gas turbine engine component)",
+    "relation": "consists_of",
+    "object": "rotating compressor blades"
+  },
+  {
+    "subject": "axial- flow compressor (gas turbine engine component)",
+    "relation": "consists_of",
+    "object": "stationary stator vanes"
+  },
+  {
+    "subject": "axial- flow compressor (gas turbine engine component)",
+    "relation": "consists_of",
+    "object": "stages"
+  },
+  {
+    "subject": "hexagon head bolt",
+    "relation": "synonym_of",
+    "object": "hex-head bolt"
+  },
+  {
+    "subject": "hexagon head bolt",
+    "relation": "is_a",
+    "object": "bolt"
+  },
+  {
+    "subject": "crimp- on terminals (electrical wire terminals)",
+    "relation": "synonym_of",
+    "object": "electrical wire terminals"
+  },
+  {
+    "subject": "crimp- on terminals (electrical wire terminals)",
+    "relation": "used_for",
+    "object": "terminal strip"
+  },
+  {
+    "subject": "crimp- on terminals (electrical wire terminals)",
+    "relation": "used_for",
+    "object": "component"
+  },
+  {
+    "subject": "crimp- on terminals (electrical wire terminals)",
+    "relation": "used_for",
+    "object": "splicing wires"
+  },
+  {
+    "subject": "crimp- on terminals (electrical wire terminals)",
+    "relation": "part_of",
+    "object": "wire ends"
+  },
+  {
+    "subject": "crimp- on terminals (electrical wire terminals)",
+    "relation": "part_of",
+    "object": "strands of the wire"
+  },
+  {
+    "subject": "VNE (never-exceed speed)",
+    "relation": "abbreviation_of",
+    "object": "VNE"
+  },
+  {
+    "subject": "VNE (never-exceed speed)",
+    "relation": "is_a",
+    "object": "never-exceed speed"
+  },
+  {
+    "subject": "settling with power (helicopter operation)",
+    "relation": "synonym_of",
+    "object": "operating in the vortex ring"
+  },
+  {
+    "subject": "chlorobromomethane (fire extinguishing agent)",
+    "relation": "synonym_of",
+    "object": "Halon 1011"
+  },
+  {
+    "subject": "chlorobromomethane (fire extinguishing agent)",
+    "relation": "abbreviation_of",
+    "object": "CB"
+  },
+  {
+    "subject": "chlorobromomethane (fire extinguishing agent)",
+    "relation": "is_a",
+    "object": "liquefied gas"
+  },
+  {
+    "subject": "chlorobromomethane (fire extinguishing agent)",
+    "relation": "opposite_of",
+    "object": "CO2"
+  },
+  {
+    "subject": "buoyancy",
+    "relation": "is_a",
+    "object": "force"
+  },
+  {
+    "subject": "buoyancy",
+    "relation": "synonym_of",
+    "object": "uplifting force"
+  },
+  {
+    "subject": "rebuilt engine",
+    "relation": "is_a",
+    "object": "used engine"
+  },
+  {
+    "subject": "rebuilt engine",
+    "relation": "governed_by",
+    "object": "zero-time logbook"
+  },
+  {
+    "subject": "rebuilt engine",
+    "relation": "governed_by",
+    "object": "14 CFR §91.421"
+  },
+  {
+    "subject": "rebuilt engine",
+    "relation": "governed_by",
+    "object": "engine manufacturer"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "synonym_of",
+    "object": "tube"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "synonym_of",
+    "object": "duct"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "instance_of",
+    "object": "rigid conduit"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "instance_of",
+    "object": "flexible conduit"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "consists_of",
+    "object": "thin-wall aluminum tubing"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "consists_of",
+    "object": "metal braid"
+  },
+  {
+    "subject": "conduit (electrical component)",
+    "relation": "contains",
+    "object": "electrical wiring"
+  },
+  {
+    "subject": "blinker",
+    "relation": "is_a",
+    "object": "oxygen flow indicator"
+  },
+  {
+    "subject": "blinker",
+    "relation": "used_for",
+    "object": "demand oxygen regulator"
+  },
+  {
+    "subject": "bucket",
+    "relation": "synonym_of",
+    "object": "turbine blade"
+  },
+  {
+    "subject": "shunt ohmmeter",
+    "relation": "is_a",
+    "object": "ohmmeter"
+  },
+  {
+    "subject": "shunt ohmmeter",
+    "relation": "measures",
+    "object": "resistance"
+  },
+  {
+    "subject": "compressor stall- margin curve (gas turbine engine operation)",
+    "relation": "synonym_of",
+    "object": "compressor stall margin curve"
+  },
+  {
+    "subject": "compressor stall- margin curve (gas turbine engine operation)",
+    "relation": "measures",
+    "object": "compression ratio"
+  },
+  {
+    "subject": "compressor stall- margin curve (gas turbine engine operation)",
+    "relation": "measures",
+    "object": "mass airflow"
+  },
+  {
+    "subject": "quadrant (mathematics)",
+    "relation": "part_of",
+    "object": "plane"
+  },
+  {
+    "subject": "quadrant (mathematics)",
+    "relation": "defined_by",
+    "object": "rectangular coordinates"
+  },
+  {
+    "subject": "quadrant (mathematics)",
+    "relation": "contains",
+    "object": "quadrant I"
+  },
+  {
+    "subject": "quadrant (mathematics)",
+    "relation": "contains",
+    "object": "quadrant II"
+  },
+  {
+    "subject": "quadrant (mathematics)",
+    "relation": "contains",
+    "object": "quadrant III"
+  },
+  {
+    "subject": "quadrant (mathematics)",
+    "relation": "contains",
+    "object": "quadrant IV"
+  },
+  {
+    "subject": "electronic speed controller (ESC)",
+    "relation": "provides",
+    "object": "alternating current (AC)"
+  },
+  {
+    "subject": "electronic speed controller (ESC)",
+    "relation": "used_for",
+    "object": "brushless motors"
+  },
+  {
+    "subject": "electronic speed controller (ESC)",
+    "relation": "converts",
+    "object": "direct current (DC)"
+  },
+  {
+    "subject": "empty-weight center of gravity (aircraft specification)",
+    "relation": "defined_by",
+    "object": "aircraft empty weight"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "is_a",
+    "object": "semiconductor device"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "consists_of",
+    "object": "P-type silicon"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "consists_of",
+    "object": "N-type silicon"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "contains",
+    "object": "boron"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "contains",
+    "object": "arsenic"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "part_of",
+    "object": "PN junction"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "affected_by",
+    "object": "light"
+  },
+  {
+    "subject": "silicon solar cell",
+    "relation": "used_for",
+    "object": "electricity generation"
+  },
+  {
+    "subject": "newton",
+    "relation": "is_a",
+    "object": "unit of force"
+  },
+  {
+    "subject": "newton",
+    "relation": "part_of",
+    "object": "metric system"
+  },
+  {
+    "subject": "newton",
+    "relation": "measures",
+    "object": "dyne"
+  },
+  {
+    "subject": "newton",
+    "relation": "measures",
+    "object": "pound"
+  },
+  {
+    "subject": "idle speed",
+    "relation": "measures",
+    "object": "revolutions per minute"
+  },
+  {
+    "subject": "idle speed",
+    "relation": "abbreviation_of",
+    "object": "RPM"
+  },
+  {
+    "subject": "parcel (meteorology)",
+    "relation": "is_a",
+    "object": "air volume"
+  },
+  {
+    "subject": "parcel (meteorology)",
+    "relation": "contains",
+    "object": "meteorological properties"
+  },
+  {
+    "subject": "primary and supporting (flight instrument classification)",
+    "relation": "used_for",
+    "object": "attitude instrument flying"
+  },
+  {
+    "subject": "primary and supporting (flight instrument classification)",
+    "relation": "defined_by",
+    "object": "instrument that provides the most direct indication of attitude and performance"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "is_a",
+    "object": "resistor"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "used_for",
+    "object": "electronic logic circuit"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "part_of",
+    "object": "logic system"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "provides",
+    "object": "logic level"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "affects",
+    "object": "external device"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "used_for",
+    "object": "interface"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "affects",
+    "object": "logic device"
+  },
+  {
+    "subject": "pull-up resistor (digital electronic device)",
+    "relation": "affects",
+    "object": "power supply voltage"
+  },
+  {
+    "subject": "GTAW (gas tungsten arc welding)",
+    "relation": "superseded_by",
+    "object": "heli-arc welding"
+  },
+  {
+    "subject": "GTAW (gas tungsten arc welding)",
+    "relation": "is_a",
+    "object": "electric arc welding"
+  },
+  {
+    "subject": "klystron (electronic component)",
+    "relation": "is_a",
+    "object": "electron tube"
+  },
+  {
+    "subject": "klystron (electronic component)",
+    "relation": "used_for",
+    "object": "oscillator"
+  },
+  {
+    "subject": "klystron (electronic component)",
+    "relation": "used_for",
+    "object": "amplifier"
+  },
+  {
+    "subject": "klystron (electronic component)",
+    "relation": "used_for",
+    "object": "microwave energy"
+  },
+  {
+    "subject": "deep-vacuum pump",
+    "relation": "is_a",
+    "object": "vacuum pump"
+  },
+  {
+    "subject": "deep-vacuum pump",
+    "relation": "used_for",
+    "object": "air conditioning system"
+  },
+  {
+    "subject": "pendulum",
+    "relation": "used_for",
+    "object": "regulating device"
+  },
+  {
+    "subject": "pendulum",
+    "relation": "used_for",
+    "object": "clock"
+  },
+  {
+    "subject": "pendulum",
+    "relation": "measures",
+    "object": "period"
+  },
+  {
+    "subject": "pendulum",
+    "relation": "governed_by",
+    "object": "length"
+  },
+  {
+    "subject": "gas welding",
+    "relation": "is_a",
+    "object": "joining metals"
+  },
+  {
+    "subject": "gas welding",
+    "relation": "used_for",
+    "object": "fuel gas"
+  },
+  {
+    "subject": "gas welding",
+    "relation": "used_for",
+    "object": "oxygen"
+  },
+  {
+    "subject": "gas welding",
+    "relation": "instance_of",
+    "object": "acetylene"
+  },
+  {
+    "subject": "gas welding",
+    "relation": "instance_of",
+    "object": "hydrogen"
+  },
+  {
+    "subject": "traffic display",
+    "relation": "used_for",
+    "object": "traffic data system"
+  },
+  {
+    "subject": "traffic display",
+    "relation": "is_a",
+    "object": "pictorial display"
+  },
+  {
+    "subject": "bifilar transformer (electrical component)",
+    "relation": "is_a",
+    "object": "electrical transformer"
+  },
+  {
+    "subject": "bifilar transformer (electrical component)",
+    "relation": "consists_of",
+    "object": "bifiliar winding"
+  },
+  {
+    "subject": "bifilar transformer (electrical component)",
+    "relation": "affects",
+    "object": "coefficient of coupling"
+  },
+  {
+    "subject": "two-way communications",
+    "relation": "is_a",
+    "object": "communications"
+  },
+  {
+    "subject": "two-way communications",
+    "relation": "instance_of",
+    "object": "ordinary telephone communications"
+  },
+  {
+    "subject": "isothermal forming (sheet metal forming)",
+    "relation": "is_a",
+    "object": "forming"
+  },
+  {
+    "subject": "isothermal forming (sheet metal forming)",
+    "relation": "used_for",
+    "object": "heated dies"
+  },
+  {
+    "subject": "isothermal forming (sheet metal forming)",
+    "relation": "consists_of",
+    "object": "metal or ceramic"
+  },
+  {
+    "subject": "area of operation",
+    "relation": "is_a",
+    "object": "phase of the practical test"
+  },
+  {
+    "subject": "area of operation",
+    "relation": "part_of",
+    "object": "Practical Test Standards"
+  },
+  {
+    "subject": "HIWAS broadcast area",
+    "relation": "is_a",
+    "object": "geographical area of responsibility"
+  },
+  {
+    "subject": "HIWAS broadcast area",
+    "relation": "consists_of",
+    "object": "HIWAS outlet areas"
+  },
+  {
+    "subject": "HIWAS broadcast area",
+    "relation": "assigned_to",
+    "object": "AFSS/FSS"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "synonym_of",
+    "object": "carbon-zinc cell"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "is_a",
+    "object": "battery"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "consists_of",
+    "object": "zinc can"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "consists_of",
+    "object": "carbon rod"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "consists_of",
+    "object": "electrolyte"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "contains",
+    "object": "sal ammoniac (ammonium chloride)"
+  },
+  {
+    "subject": "Leclanche cell (batteries)",
+    "relation": "contains",
+    "object": "manganese dioxide"
+  },
+  {
+    "subject": "takeoff weight (weight and balance)",
+    "relation": "part_of",
+    "object": "ramp weight"
+  },
+  {
+    "subject": "takeoff weight (weight and balance)",
+    "relation": "part_of",
+    "object": "fuel burned during start and taxi"
+  },
+  {
+    "subject": "inhibitive film (corrosion protection)",
+    "relation": "is_a",
+    "object": "oxide coating"
+  },
+  {
+    "subject": "inhibitive film (corrosion protection)",
+    "relation": "used_for",
+    "object": "corrosion protection"
+  },
+  {
+    "subject": "inhibitive film (corrosion protection)",
+    "relation": "used_for",
+    "object": "aluminum alloys"
+  },
+  {
+    "subject": "inhibitive film (corrosion protection)",
+    "relation": "used_for",
+    "object": "magnesium alloys"
+  },
+  {
+    "subject": "Y-connected circuit (electrical circuit)",
+    "relation": "synonym_of",
+    "object": "wye-connected circuit"
+  },
+  {
+    "subject": "Y-connected circuit (electrical circuit)",
+    "relation": "synonym_of",
+    "object": "star-connected circuit"
+  },
+  {
+    "subject": "hot forming (metal forming process)",
+    "relation": "is_a",
+    "object": "forging"
+  },
+  {
+    "subject": "hot forming (metal forming process)",
+    "relation": "is_a",
+    "object": "extruding"
+  },
+  {
+    "subject": "hot forming (metal forming process)",
+    "relation": "is_a",
+    "object": "hot upsetting"
+  },
+  {
+    "subject": "hot forming (metal forming process)",
+    "relation": "is_a",
+    "object": "piercing"
+  },
+  {
+    "subject": "hot forming (metal forming process)",
+    "relation": "is_a",
+    "object": "shearing"
+  },
+  {
+    "subject": "hot forming (metal forming process)",
+    "relation": "defined_by",
+    "object": "cutting or deforming metal at relatively high temperatures"
+  },
+  {
+    "subject": "wind direction indicator (airport fixture)",
+    "relation": "used_for",
+    "object": "wind direction indicator (airport fixture)"
+  },
+  {
+    "subject": "dimension line (mechanical drawings)",
+    "relation": "is_a",
+    "object": "dimension line (mechanical drawings)"
+  },
+  {
+    "subject": "dimension line (mechanical drawings)",
+    "relation": "is_a",
+    "object": "light solid line"
+  },
+  {
+    "subject": "dimension line (mechanical drawings)",
+    "relation": "part_of",
+    "object": "extension lines"
+  },
+  {
+    "subject": "dimension line (mechanical drawings)",
+    "relation": "part_of",
+    "object": "arrowhead"
+  },
+  {
+    "subject": "dimension line (mechanical drawings)",
+    "relation": "measures",
+    "object": "dimension"
+  },
+  {
+    "subject": "dimension line (mechanical drawings)",
+    "relation": "measures",
+    "object": "tolerance"
+  },
+  {
+    "subject": "Class G airspace",
+    "relation": "opposite_of",
+    "object": "Class G airspace"
+  },
+  {
+    "subject": "Class G airspace",
+    "relation": "is_a",
+    "object": "Class G airspace"
+  },
+  {
+    "subject": "Class G airspace",
+    "relation": "defined_by",
+    "object": "Class G airspace"
+  },
+  {
+    "subject": "contact approach (air traffic control)",
+    "relation": "opposite_of",
+    "object": "instrument approach procedure"
+  },
+  {
+    "subject": "contact approach (air traffic control)",
+    "relation": "used_for",
+    "object": "visual reference to the surface"
+  },
+  {
+    "subject": "contact approach (air traffic control)",
+    "relation": "governed_by",
+    "object": "IFR flight plan"
+  },
+  {
+    "subject": "contact approach (air traffic control)",
+    "relation": "governed_by",
+    "object": "air traffic control authorization"
+  },
+  {
+    "subject": "carburizing (steel heat treatment)",
+    "relation": "is_a",
+    "object": "heat treatment of steel"
+  },
+  {
+    "subject": "carburizing (steel heat treatment)",
+    "relation": "used_for",
+    "object": "surface hardening"
+  },
+  {
+    "subject": "carburizing (steel heat treatment)",
+    "relation": "contains",
+    "object": "carbon"
+  },
+  {
+    "subject": "pilot-in-command (PIC)",
+    "relation": "synonym_of",
+    "object": "pilot-in-command"
+  },
+  {
+    "subject": "pilot-in-command (PIC)",
+    "relation": "abbreviation_of",
+    "object": "PIC"
+  },
+  {
+    "subject": "pilot-in-command (PIC)",
+    "relation": "is_a",
+    "object": "person"
+  },
+  {
+    "subject": "A- battery",
+    "relation": "is_a",
+    "object": "dry-cell battery"
+  },
+  {
+    "subject": "A- battery",
+    "relation": "used_for",
+    "object": "vacuum tube radios"
+  },
+  {
+    "subject": "A- battery",
+    "relation": "provides",
+    "object": "heaters"
+  },
+  {
+    "subject": "A- battery",
+    "relation": "provides",
+    "object": "filaments"
+  },
+  {
+    "subject": "A- battery",
+    "relation": "measures",
+    "object": "voltage"
+  },
+  {
+    "subject": "abradable seal (gas turbine engine component)",
+    "relation": "synonym_of",
+    "object": "knife-edge seal"
+  },
+  {
+    "subject": "rivet gage",
+    "relation": "measures",
+    "object": "rivet gage"
+  },
+  {
+    "subject": "rivet gage",
+    "relation": "defined_by",
+    "object": "distance between rows of rivets"
+  },
+  {
+    "subject": "slash (radar indication)",
+    "relation": "is_a",
+    "object": "radar beacon reply"
+  },
+  {
+    "subject": "slash (radar indication)",
+    "relation": "is_a",
+    "object": "elongated target"
+  },
+  {
+    "subject": "lye",
+    "relation": "consists_of",
+    "object": "potassium hydroxide"
+  },
+  {
+    "subject": "lye",
+    "relation": "consists_of",
+    "object": "sodium hydroxide"
+  },
+  {
+    "subject": "harness (electrical)",
+    "relation": "is_a",
+    "object": "harness (electrical)"
+  },
+  {
+    "subject": "harness (electrical)",
+    "relation": "is_a",
+    "object": "bundle of wires"
+  },
+  {
+    "subject": "harness (electrical)",
+    "relation": "part_of",
+    "object": "aircraft structure"
+  },
+  {
+    "subject": "harness (electrical)",
+    "relation": "connects",
+    "object": "electrical components"
+  },
+  {
+    "subject": "harness (electrical)",
+    "relation": "connects",
+    "object": "power bus"
+  },
+  {
+    "subject": "flush rivet",
+    "relation": "instance_of",
+    "object": "MS20426"
+  },
+  {
+    "subject": "flush rivet",
+    "relation": "is_a",
+    "object": "aircraft solid rivet"
+  },
+  {
+    "subject": "flush rivet",
+    "relation": "has_part",
+    "object": "countersunk head"
+  },
+  {
+    "subject": "flush rivet",
+    "relation": "used_for",
+    "object": "aerodynamically smooth surface"
+  },
+  {
+    "subject": "afterfiring (reciprocating engines)",
+    "relation": "synonym_of",
+    "object": "torching"
+  },
+  {
+    "subject": "mandatory block altitude (air traffic control)",
+    "relation": "is_a",
+    "object": "mandatory block altitude"
+  },
+  {
+    "subject": "mandatory block altitude (air traffic control)",
+    "relation": "defined_by",
+    "object": "instrument approach chart"
+  },
+  {
+    "subject": "off-airport (in UA operations)",
+    "relation": "is_a",
+    "object": "location"
+  },
+  {
+    "subject": "off-airport (in UA operations)",
+    "relation": "used_for",
+    "object": "launch or recover an unmanned aircraft"
+  },
+  {
+    "subject": "minimum drag (aerodynamics)",
+    "relation": "synonym_of",
+    "object": "minimum drag"
+  },
+  {
+    "subject": "minimum drag (aerodynamics)",
+    "relation": "defined_by",
+    "object": "lift-to-drag ratio"
+  },
+  {
+    "subject": "wind (meteorology)",
+    "relation": "is_a",
+    "object": "air in motion"
+  },
+  {
+    "subject": "wind (meteorology)",
+    "relation": "is_a",
+    "object": "horizontal movement of the air"
+  },
+  {
+    "subject": "takeoff thrust",
+    "relation": "is_a",
+    "object": "jet thrust"
+  },
+  {
+    "subject": "takeoff thrust",
+    "relation": "defined_by",
+    "object": "static conditions"
+  },
+  {
+    "subject": "takeoff thrust",
+    "relation": "defined_by",
+    "object": "maximum conditions of rotorshaft rotational speed and gas temperature"
+  },
+  {
+    "subject": "takeoff thrust",
+    "relation": "used_for",
+    "object": "normal takeoff"
+  },
+  {
+    "subject": "takeoff thrust",
+    "relation": "governed_by",
+    "object": "approved engine specification"
+  },
+  {
+    "subject": "preprogrammed holding pattern (preprogrammed hold)",
+    "relation": "is_a",
+    "object": "holding pattern"
+  },
+  {
+    "subject": "preprogrammed holding pattern (preprogrammed hold)",
+    "relation": "part_of",
+    "object": "instrument procedure"
+  },
+  {
+    "subject": "preprogrammed holding pattern (preprogrammed hold)",
+    "relation": "governed_by",
+    "object": "FMS/RNAV"
+  },
+  {
+    "subject": "preprogrammed holding pattern (preprogrammed hold)",
+    "relation": "contains",
+    "object": "holding fix"
+  },
+  {
+    "subject": "IMEP (indicated mean effective pressure)",
+    "relation": "opposite_of",
+    "object": "brake mean effective pressure"
+  },
+  {
+    "subject": "IMEP (indicated mean effective pressure)",
+    "relation": "calculates",
+    "object": "indicated horsepower"
+  },
+  {
+    "subject": "IMEP (indicated mean effective pressure)",
+    "relation": "measured_in",
+    "object": "pounds per square inch"
+  },
+  {
+    "subject": "air density",
+    "relation": "defined_by",
+    "object": "mass of air"
+  },
+  {
+    "subject": "air density",
+    "relation": "measures",
+    "object": "slug per cubic foot"
+  },
+  {
+    "subject": "air density",
+    "relation": "instance_of",
+    "object": "0.002378 slug per cubic foot"
+  },
+  {
+    "subject": "FAASTeam",
+    "relation": "synonym_of",
+    "object": "Federal Aviation Administration Safety Team"
+  },
+  {
+    "subject": "cam dwell",
+    "relation": "synonym_of",
+    "object": "cam dwell angle"
+  },
+  {
+    "subject": "solar wind",
+    "relation": "consists_of",
+    "object": "plasma"
+  },
+  {
+    "subject": "solar wind",
+    "relation": "causes",
+    "object": "solar corona"
+  },
+  {
+    "subject": "submerged-arc welding",
+    "relation": "is_a",
+    "object": "electric arc welding"
+  },
+  {
+    "subject": "submerged-arc welding",
+    "relation": "consists_of",
+    "object": "bare rod"
+  },
+  {
+    "subject": "submerged-arc welding",
+    "relation": "consists_of",
+    "object": "granulated flux"
+  },
+  {
+    "subject": "submerged-arc welding",
+    "relation": "used_for",
+    "object": "prevent the formation of oxides in the bead"
+  },
+  {
+    "subject": "precession (gyroscopic characteristic)",
+    "relation": "opposite_of",
+    "object": "rigidity in space"
+  },
+  {
+    "subject": "precession (gyroscopic characteristic)",
+    "relation": "part_of",
+    "object": "gyroscope"
+  },
+  {
+    "subject": "continuous gusset (wing rib bracing)",
+    "relation": "is_a",
+    "object": "continuous gusset (wing rib bracing)"
+  },
+  {
+    "subject": "continuous gusset (wing rib bracing)",
+    "relation": "is_a",
+    "object": "brace"
+  },
+  {
+    "subject": "continuous gusset (wing rib bracing)",
+    "relation": "consists_of",
+    "object": "plywood"
+  },
+  {
+    "subject": "continuous gusset (wing rib bracing)",
+    "relation": "part_of",
+    "object": "wooden wing rib"
+  },
+  {
+    "subject": "continuous gusset (wing rib bracing)",
+    "relation": "used_for",
+    "object": "glue joints"
+  },
+  {
+    "subject": "continuous gusset (wing rib bracing)",
+    "relation": "used_for",
+    "object": "upright and diagonal braces"
+  },
+  {
+    "subject": "magneto safety check (aircraft reciprocating engine operation check)",
+    "relation": "controls",
+    "object": "ignition switch"
+  },
+  {
+    "subject": "magneto safety check (aircraft reciprocating engine operation check)",
+    "relation": "affects",
+    "object": "engine"
+  },
+  {
+    "subject": "magneto safety check (aircraft reciprocating engine operation check)",
+    "relation": "controls",
+    "object": "magnetos"
+  },
+  {
+    "subject": "naturally aspirated engine (reciprocating engine)",
+    "relation": "opposite_of",
+    "object": "supercharged engine"
+  },
+  {
+    "subject": "TCDS (Type Certificate Data Sheet)",
+    "relation": "synonym_of",
+    "object": "Type Certificate Data Sheet"
+  },
+  {
+    "subject": "seaplane",
+    "relation": "is_a",
+    "object": "seaplane"
+  },
+  {
+    "subject": "seaplane",
+    "relation": "is_a",
+    "object": "flying boat"
+  },
+  {
+    "subject": "seaplane",
+    "relation": "part_of",
+    "object": "sponson"
+  },
+  {
+    "subject": "seaplane",
+    "relation": "part_of",
+    "object": "wingtip float"
+  },
+  {
+    "subject": "bubble memory (computer memory)",
+    "relation": "is_a",
+    "object": "digital data storage"
+  },
+  {
+    "subject": "bubble memory (computer memory)",
+    "relation": "consists_of",
+    "object": "magnetic fields"
+  },
+  {
+    "subject": "bubble memory (computer memory)",
+    "relation": "part_of",
+    "object": "thin film of magnetic crystalline material"
+  },
+  {
+    "subject": "bubble memory (computer memory)",
+    "relation": "controlled_by",
+    "object": "external magnetic field"
+  },
+  {
+    "subject": "cell (electrochemical)",
+    "relation": "is_a",
+    "object": "electrochemical device"
+  },
+  {
+    "subject": "cell (electrochemical)",
+    "relation": "consists_of",
+    "object": "electrode"
+  },
+  {
+    "subject": "cell (electrochemical)",
+    "relation": "consists_of",
+    "object": "electrolyte"
+  },
+  {
+    "subject": "cell (electrochemical)",
+    "relation": "causes",
+    "object": "potential difference"
+  },
+  {
+    "subject": "cell (electrochemical)",
+    "relation": "causes",
+    "object": "electron"
+  },
+  {
+    "subject": "downwind leg (airport flight pattern)",
+    "relation": "part_of",
+    "object": "landing runway"
+  },
+  {
+    "subject": "downwind leg (airport flight pattern)",
+    "relation": "part_of",
+    "object": "flight pattern"
+  },
+  {
+    "subject": "mosaic/multi-sensor mode (radar mode)",
+    "relation": "is_a",
+    "object": "mosaic/multi-sensor mode"
+  },
+  {
+    "subject": "mosaic/multi-sensor mode (radar mode)",
+    "relation": "is_a",
+    "object": "radar mode"
+  },
+  {
+    "subject": "restricted area",
+    "relation": "is_a",
+    "object": "restricted area"
+  },
+  {
+    "subject": "restricted area",
+    "relation": "is_a",
+    "object": "airspace"
+  },
+  {
+    "subject": "viscosimeter",
+    "relation": "measures",
+    "object": "viscosity"
+  },
+  {
+    "subject": "viscosimeter",
+    "relation": "used_for",
+    "object": "fluid"
+  },
+  {
+    "subject": "viscosimeter",
+    "relation": "instance_of",
+    "object": "cup-type viscosimeter"
+  },
+  {
+    "subject": "aviation medicine",
+    "relation": "is_a",
+    "object": "medicine"
+  },
+  {
+    "subject": "aviation medicine",
+    "relation": "defined_by",
+    "object": "standards of physical fitness for airmen"
+  },
+  {
+    "subject": "piston skirt (reciprocating engine)",
+    "relation": "part_of",
+    "object": "piston"
+  },
+  {
+    "subject": "piston skirt (reciprocating engine)",
+    "relation": "affects",
+    "object": "cylinder wall"
+  },
+  {
+    "subject": "EMSAW (enroute minimum safe altitude warning)",
+    "relation": "part_of",
+    "object": "NAS Stage A enroute computer"
+  },
+  {
+    "subject": "EMSAW (enroute minimum safe altitude warning)",
+    "relation": "used_for",
+    "object": "controller"
+  },
+  {
+    "subject": "EMSAW (enroute minimum safe altitude warning)",
+    "relation": "measures",
+    "object": "minimum IFR altitude"
+  },
+  {
+    "subject": "population stereotypes",
+    "relation": "is_a",
+    "object": "culturally agreed-upon understandings"
+  },
+  {
+    "subject": "population stereotypes",
+    "relation": "instance_of",
+    "object": "color meanings"
+  },
+  {
+    "subject": "exfoliation corrosion",
+    "relation": "is_a",
+    "object": "intergranular corrosion"
+  },
+  {
+    "subject": "plasticizer (finishing material constituent)",
+    "relation": "used_for",
+    "object": "lacquer finishing system"
+  },
+  {
+    "subject": "plasticizer (finishing material constituent)",
+    "relation": "provides",
+    "object": "film flexibility"
+  },
+  {
+    "subject": "plasticizer (finishing material constituent)",
+    "relation": "provides",
+    "object": "film resilience"
+  }
+]

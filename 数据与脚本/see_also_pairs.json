@@ -1,0 +1,836 @@
+[
+ {
+  "subject": "A-check",
+  "object": "maintenance checks",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ADAHRS",
+  "object": "air data attitude and heading reference system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ADC",
+  "object": "air data computer",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ADM",
+  "object": "aeronautical decision making",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "AFM",
+  "object": "airplane flight manual",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "AHRS",
+  "object": "attitude heading reference system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ALS",
+  "object": "approach lighting system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "AME",
+  "object": "aviation medical examiner",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "AMT",
+  "object": "aviation maintenance technician",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ASOS",
+  "object": "Automated Surface Observing System",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ATC (air traffic control)",
+  "object": "North Pacific (air traffic control)",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "ATCRBS",
+  "object": "air traffic control radar beacon system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "AWOS",
+  "object": "Automated Weather Observing System",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "BBC",
+  "object": "before bottom center",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "B-check",
+  "object": "maintenance checks",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "BDC",
+  "object": "bottom dead center",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "BTC",
+  "object": "before top center",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CAD",
+  "object": "computer-aided design",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CADD",
+  "object": "computer-aided design drafting",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CAE",
+  "object": "computer-aided engineering",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CAM",
+  "object": "computer-aided manufacturing",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CBI",
+  "object": "computer-based instruction",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CBT",
+  "object": "computer-based training",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "C-check",
+  "object": "maintenance checks",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CD duct",
+  "object": "convergent-divergent duct",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Certificate of Airworthiness",
+  "object": "Airworthiness Certificate",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "CFI",
+  "object": "certified flight instructor",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CFR",
+  "object": "Code of Federal Regulations",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "COP",
+  "object": "changeover point",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "CRM",
+  "object": "crew resource management",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "DA",
+  "object": "decision altitude",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "D-check",
+  "object": "maintenance checks",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "In aerial navigation, declination is called variation",
+  "object": "variation",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "DH",
+  "object": "decision height",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Dispatch Deviations Guide",
+  "object": "Dispatch Deviations Procedures Guide (DDPG)",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "DP",
+  "object": "departure procedure",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "DPE",
+  "object": "designated pilot examiner",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "DUATS",
+  "object": "direct user access terminal system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "EFAS",
+  "object": "enroute flight advisory service",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "EFC",
+  "object": "expect further clearance",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "EFD",
+  "object": "electronic flight display",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ECAM (electronic centralized monitoring) system",
+  "object": "EICAS and ECAM",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "EM wave",
+  "object": "electromagnetic wave",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ETOPS",
+  "object": "extended operations (ETOPS)",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FAASTeam",
+  "object": "Federal Aviation Administration Safety Team",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FAF",
+  "object": "final approach fix",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FATO",
+  "object": "Final Approach and Takeoff Area",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FD",
+  "object": "flight director",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FDI",
+  "object": "Flight Director Indicator",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FIR",
+  "object": "flight information region",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FL",
+  "object": "flight level",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "All rivets used for the repair are flush rivets",
+  "object": "illustration for filler plug",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FM (radio modulation)",
+  "object": "frequency modulation",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FSS",
+  "object": "flight service station",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "FTD",
+  "object": "flight training device",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "GLS",
+  "object": "GPS landing system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "GNSS",
+  "object": "global navigation satellite system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "GPSS",
+  "object": "global positioning system steering",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "GPWS",
+  "object": "ground proximity warning system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "GS",
+  "object": "glide slope",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Gyroscopes are used in both attitude and rate indicating flight instruments",
+  "object": "rigidity",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "HUD",
+  "object": "head-up display (HUD)",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ICA",
+  "object": "initial climb area",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "IVSI",
+  "object": "instantaneous vertical speed indicator",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "N-material between an emitter and collector of P-material",
+  "object": "illustration for bipolar",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Kollsman window",
+  "object": "barometric",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "LMM",
+  "object": "locator middle marker",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "NOT gate (an inverter)",
+  "object": "the definitions for each of these gates",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "LOM",
+  "object": "locator outer marker",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "LOX",
+  "object": "liquid oxygen",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "LSA",
+  "object": "light sport aircraft",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "MB",
+  "object": "magnetic bearing",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "MEL",
+  "object": "minimum equipment list",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "MH",
+  "object": "magnetic heading",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "MOA",
+  "object": "military operations area",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Mode S extended squitter (transponder operation)",
+  "object": "extended squitter (transponder",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "NAS",
+  "object": "national airspace system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "National Aeronautical Charting Office (NACO)",
+  "object": "AeroNAV",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "NEXRAD",
+  "object": "Next Generation Radar system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "NoPT",
+  "object": "no procedure turn",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "NSA",
+  "object": "National Security Area",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "NTSB",
+  "object": "National Transportation Safety Board",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "ODP",
+  "object": "obstacle departure procedure",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "OIS",
+  "object": "obstacle identification surface",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "OROCA",
+  "object": "off-route obstruction clearance altitude",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "N-material",
+  "object": "FET (field effect transistor)",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "P-factor (aerodynamics)",
+  "object": "asymmetric loading (P-factor)",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "PFD",
+  "object": "primary flight display",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "PIC",
+  "object": "pilot-in-command",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Pilots Automatic Telephone Weather Answering Service",
+  "object": "PATWAS",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "PIREP",
+  "object": "pilot report",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "PK screw",
+  "object": "Parker-Kalon screw",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "POI",
+  "object": "principal operations inspector",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "P-time",
+  "object": "proposed departure time",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "PTS",
+  "object": "practical test standards",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RAIM",
+  "object": "receiver autonomous integrity monitoring",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RBI",
+  "object": "relative bearing indicator",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RCO",
+  "object": "remote communications outlet",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RC time constant",
+  "object": "capacitive time constant",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Ringworms can be removed by rejuvenating the dope",
+  "object": "rejuvenation",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RNAV",
+  "object": "area navigation",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RNP",
+  "object": "required navigation performance",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "RVV",
+  "object": "runway visibility value",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SA",
+  "object": "selective availability",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SAR",
+  "object": "search and rescue",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SBT",
+  "object": "scenario-based training",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SDF",
+  "object": "simplified directional facility",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SER",
+  "object": "start end of runway",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Center)",
+  "object": "severe weather watch bulletin (WW)",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "The energy in the air is decreased",
+  "object": "oblique shock",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SID",
+  "object": "SID (Standard Instrument Departure) charts",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "The larger the splay of a runway, the lower the approach angle",
+  "object": "linear perspective",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SRM",
+  "object": "single-pilot resource management",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SSR",
+  "object": "secondary surveillance radar",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SSV",
+  "object": "standard service volume",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "SUSP",
+  "object": "suspend mode",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TA",
+  "object": "traffic advisory",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TAA",
+  "object": "terminal arrival area",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TAI (Thermal Anti-Ice)",
+  "object": "thermal anti-icing system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TAS",
+  "object": "true airspeed",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TAWS",
+  "object": "terrain awareness warning system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TCDS (Type Certificate Data Sheet)",
+  "object": "TCDS (Type Certificate Data Sheet)",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "TCH",
+  "object": "threshold crossing height",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TCO",
+  "object": "training course outline",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TDZE",
+  "object": "touchdown zone elevation",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TEC",
+  "object": "tower enroute control",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TEMAC",
+  "object": "MAC (mean aerodynamic chord)",
+  "kind": "see_also",
+  "resolved": true
+ },
+ {
+  "subject": "ARTS IIIE, STARS, and MEARTS",
+  "object": "digital terminal automation system (DTAS)",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TFR",
+  "object": "temporary flight restriction",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "TWEB",
+  "object": "transcribed weather broadcast",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "UA",
+  "object": "unmanned aircraft",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "An unloading valve is also called a system pressure regulator",
+  "object": "system pressure",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "A designated pilot-in-command is always in control of a UAS",
+  "object": "unmanned aircraft",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "VDP",
+  "object": "visual descent point",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "VMC",
+  "object": "visual meteorological conditions",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "VSI",
+  "object": "vertical speed indicator",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "WAAS",
+  "object": "wide area augmentation system",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "WCA",
+  "object": "wind correction angle",
+  "kind": "see_also",
+  "resolved": false
+ },
+ {
+  "subject": "Zulu time",
+  "object": "universal time",
+  "kind": "see_also",
+  "resolved": false
+ }
+]

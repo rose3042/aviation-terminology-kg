@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 绝不入库：词典原文
+full_definitions.json
+dictionary_clean.txt
+dictionary_full.txt
+*.docx

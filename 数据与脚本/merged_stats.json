@@ -1,0 +1,23 @@
+{
+ "total": 2443,
+ "dist": {
+  "part_of": 382,
+  "has_property": 238,
+  "is_a": 767,
+  "defined_by": 93,
+  "used_for": 223,
+  "synonym_of": 175,
+  "operates_with": 152,
+  "located_in": 73,
+  "consists_of": 148,
+  "measures": 117,
+  "controls": 45,
+  "causes": 30
+ },
+ "source": {
+  "base": 198,
+  "full": 2097,
+  "core": 143,
+  "see": 5
+ }
+}

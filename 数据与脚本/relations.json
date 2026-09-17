@@ -1,0 +1,2018 @@
+[
+ {
+  "subject": "A&B hydraulic brake system",
+  "object": "Large aircraft",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "A&P mechanic",
+  "object": "Mechanic Certificate",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ARTCC per hour",
+  "object": "AAR",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "AAS (airport advisory service)",
+  "object": "Administrator (FAA)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "AC (Advisory Circular)",
+  "object": "Administrator (FAA)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ACDO (air carrier district office)",
+  "object": "Administrator (FAA)",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "AC 43",
+  "object": "AC (Advisory Circular)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "AD (airworthiness directive)",
+  "object": "Administrator (FAA)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ADF (automatic direction finder)",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.7
+ },
+ {
+  "subject": "AD oil (ashless dispersant oil)",
+  "object": "Lubricating oil",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ADS-B Out",
+  "object": "OBS mode (avionics)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "Advisory Service",
+  "object": "Administrator (FAA)",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "Aerodrome",
+  "object": "DR",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "AFCS (automatic flight control system)",
+  "object": "AFCS",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AIM (Aeronautical Information Manual)",
+  "object": "Administrator (FAA)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Aircraft Listings",
+  "object": "FAA (Federal Aviation Administration)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Airport/Facility Directory (A/FD)",
+  "object": "FAA (Federal Aviation Administration)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ALSF-I",
+  "object": "ILS",
+  "relation": "part_of",
+  "confidence": 0.85
+ },
+ {
+  "subject": "ALSF-II",
+  "object": "ILS",
+  "relation": "part_of",
+  "confidence": 0.85
+ },
+ {
+  "subject": "Airworthiness Alert",
+  "object": "Administrator (FAA)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Defect Reports",
+  "object": "Airworthiness Alert",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "Airworthiness Certificate",
+  "object": "FAA (Federal Aviation Administration)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Alclad",
+  "object": "America",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ALERFA (alert phase) (ICAO)",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Allen wrench",
+  "object": "Allen screw",
+  "relation": "used_for",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Alodizing",
+  "object": "Parkerizing (corrosion protection)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ALTRV (altitude reservation)",
+  "object": "ALTRV",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AMC (automatic mixture control)",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AN hardware",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Armed Forces",
+  "object": "Title 14 of the Code of Federal Regulations (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Armed Forces",
+  "object": "Code of Federal Regulations (CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Armstrong line",
+  "object": "MSL",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AROW",
+  "object": "AID",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ARSR (air route surveillance radar)",
+  "object": "ARTCC (air route traffic control center)",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ARSR (air route surveillance radar)",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ARTS II",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ARTS III",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ARTS IIIA",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "A-scan (radarscope)",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ASR (airport surveillance radar)",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ATC (air traffic control)",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Administration for the design of an airplane, engine, or propeller",
+  "object": "ATC",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ATC assigned airspace",
+  "object": "ATC",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Airport reservation office (ARO)",
+  "object": "IFR",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "ATC contingency command post",
+  "object": "Administrator (FAA)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "ATC instructions (air traffic control)",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "ATCRBS",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "ATCRBS",
+  "object": "RADAR",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "ATC security services",
+  "object": "ATC",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATC security services position",
+  "object": "ATC",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATC security tracking",
+  "object": "ATC",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATC surveillance source",
+  "object": "ATC",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATS route (ICAO)",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "AVGAS",
+  "object": "Gasoline",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Bakelite",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Bellows are used to measure pressure",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Brinell hardness test",
+  "object": "V-blocks (metal)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Category II operations",
+  "object": "Title 14 of the Code of Federal Regulations (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Category II operations",
+  "object": "Code of Federal Regulations (CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Category III operations",
+  "object": "Title 14 of the Code of Federal Regulations (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Category III operations",
+  "object": "Code of Federal Regulations (CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "CCL (convective condensation level)",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "CDI (course deviation indicator)",
+  "object": "LORAN",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "CDI (course deviation indicator)",
+  "object": "RNAV (GPS) approach",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "CDI (course deviation indicator)",
+  "object": "VOR",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "CDU (control display unit)",
+  "object": "FMC (flight management computer)",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Ceconite",
+  "object": "Irish linen (aircraft fabric)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "CERAP (combined center-rapcon)",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Certificate of Airworthiness",
+  "object": "Airworthiness Certificate",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Channel-Chrome cylinders",
+  "object": "V-engine (reciprocating engine)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Chart Supplement U",
+  "object": "Airport/Facility Directory (A/FD)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Chart Supplement U",
+  "object": "Administrator (FAA)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Chart Supplement U",
+  "object": "FD",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Chart Supplement U",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "CHDO",
+  "object": "Administrator (FAA)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Mountains in the United States",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class A airspace",
+  "object": "MSL",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "Class A airspace",
+  "object": "FL",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "Class A fire",
+  "object": "V-blocks (wood)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class A fire",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class B airspace",
+  "object": "MSL",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class B fire",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class D fire",
+  "object": "V-blocks (metal)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class D fire",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Class E airspace",
+  "object": "IF",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Cleco fastener",
+  "object": "V-blocks (metal)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Component Maintenance Manual (CMM)",
+  "object": "Instructions for Continued Airworthiness (maintenance manual)",
+  "relation": "is_a",
+  "confidence": 0.8
+ },
+ {
+  "subject": "CONSOL (CONSOLAN)",
+  "object": "AID",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "CT message (air traffic control)",
+  "object": "EDCT",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Nemours & Company",
+  "object": "Dacron",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Nemours & Company",
+  "object": "AS",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "DC generator (electrical machine)",
+  "object": "DC motor (electrical machine)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "DC power",
+  "object": "DC",
+  "relation": "measures",
+  "confidence": 0.7
+ },
+ {
+  "subject": "Decca navigation system",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "DEWIZ (distant early warning identification zone)",
+  "object": "ADIZ (air defense identification zone)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AN/TPX-42 interrogator system",
+  "object": "DAIR",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Dispatch Deviations Guide",
+  "object": "Dispatch Deviations Procedures Guide (DDPG)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Dispatch Deviations Guide",
+  "object": "Dispatch Deviations Procedures Guide (DDPG)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "In the low-frequency band, 500 kilohertz is the distress frequency",
+  "object": "VHF",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "MSA (minimum safe altitude)",
+  "object": "CFR Part 91",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "MSAW (minimum safe altitude warning)",
+  "object": "ARTS III",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "MSAW (minimum safe altitude warning)",
+  "object": "AIDS",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "MSAW (minimum safe altitude warning)",
+  "object": "ARTS",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "MTI (moving target indicator)",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "NAND gate (logic gate)",
+  "object": "OR gate (logic gate)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "NAS stage A (air traffic control)",
+  "object": "RADAR",
+  "relation": "part_of",
+  "confidence": 0.7
+ },
+ {
+  "subject": "NAVAID classes",
+  "object": "NAVAIDs (navigational aids)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "NAVAID classes",
+  "object": "AIDS",
+  "relation": "none",
+  "confidence": 0.7
+ },
+ {
+  "subject": "NAV/COM",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "NDB (nondirectional beacons)",
+  "object": "L/MF",
+  "relation": "part_of",
+  "confidence": 0.7
+ },
+ {
+  "subject": "NEXRAD",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "NOR gate (logic gate)",
+  "object": "OR gate (logic gate)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "NOT gate (logic gate)",
+  "object": "NOT gate (an inverter)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "OBS mode (avionics)",
+  "object": "RNAV",
+  "relation": "part_of",
+  "confidence": 0.7
+ },
+ {
+  "subject": "Omega navigation system",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "PAR (precision approach radar)",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "P-band radar",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "P-band radar",
+  "object": "MHz (megahertz)",
+  "relation": "measures",
+  "confidence": 0.8
+ },
+ {
+  "subject": "P-channel field effect transistor",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "N-material",
+  "object": "FET (field effect transistor)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "PK screw",
+  "object": "Parker-Kalon screw",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "PMA (Parts Manufacturer Approval)",
+  "object": "Part 141 (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "PPI (plan position indicator)",
+  "object": "RADAR",
+  "relation": "part_of",
+  "confidence": 0.7
+ },
+ {
+  "subject": "Principal Maintenance Inspector (PMI)",
+  "object": "FAA Inspector",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Production Certificate",
+  "object": "Part 141 (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "PROM (programmable read-only memory)",
+  "object": "IC (integrated circuit)",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "Propfan engine",
+  "object": "UHB engine (ultrahigh-bypass)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Q-band radar",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "Q-band radar",
+  "object": "GHz (gigahertz)",
+  "relation": "measures",
+  "confidence": 0.8
+ },
+ {
+  "subject": "RATO (rocket assisted takeoff)",
+  "object": "RATO",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "RC circuit (electrical circuit)",
+  "object": "Y-connected circuit (electrical circuit)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "RL circuit (electrical circuit)",
+  "object": "Y-connected circuit (electrical circuit)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "RNAV",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "RNAV approach",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "RNAV approach",
+  "object": "IAP (instrument approach procedure)",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "RNAV system, suitable",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "RNAV system, suitable",
+  "object": "RNAV",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "RNAV waypoint",
+  "object": "Part 141 (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "S-band radar",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "America",
+  "object": "Sitka spruce",
+  "relation": "used_for",
+  "confidence": 0.9
+ },
+ {
+  "subject": "STOL (Short TakeOff and Landing)",
+  "object": "STOL",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "SUPPs",
+  "object": "ICAO",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "TACAN (electronic navigation system)",
+  "object": "VORTAC (electronic navigation system)",
+  "relation": "is_a",
+  "confidence": 0.7
+ },
+ {
+  "subject": "TACAN (electronic navigation system)",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "TACAN-only aircraft",
+  "object": "TACAN",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "TCAS I",
+  "object": "TCAS",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "TCAS I",
+  "object": "Part 141 (14 CFR)",
+  "relation": "none",
+  "confidence": 0.7
+ },
+ {
+  "subject": "TCAS II",
+  "object": "TCAS",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "TCAS II",
+  "object": "Part 141 (14 CFR)",
+  "relation": "none",
+  "confidence": 0.7
+ },
+ {
+  "subject": "TCAS III",
+  "object": "TCAS",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "TCAS III",
+  "object": "Part 141 (14 CFR)",
+  "relation": "none",
+  "confidence": 0.7
+ },
+ {
+  "subject": "TDC (top dead center)",
+  "object": "V-engine (reciprocating engine)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "TEL (tetraethyl lead)",
+  "object": "Gasoline",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "TEMAC",
+  "object": "MAC (mean aerodynamic chord)",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "T/R (transformer/rectifier)",
+  "object": "Large aircraft",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "TR unit",
+  "object": "AC (alternating current)",
+  "relation": "controls",
+  "confidence": 0.7
+ },
+ {
+  "subject": "T-seal",
+  "object": "Teflon",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "D, or E",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "United States air carrier",
+  "object": "United States",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "United States air carrier",
+  "object": "Part 141 (14 CFR)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Universal Access Transceiver (UAT)",
+  "object": "ADS-B",
+  "relation": "used_for",
+  "confidence": 0.9
+ },
+ {
+  "subject": "VFR (visual flight rules)",
+  "object": "FAA (Federal Aviation Administration)",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "VFR aircraft",
+  "object": "VFR (visual flight rules)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "VI (viscosity index) improver",
+  "object": "Lubricating oil",
+  "relation": "used_for",
+  "confidence": 0.9
+ },
+ {
+  "subject": "VIP levels (meteorology)",
+  "object": "RADAR",
+  "relation": "measures",
+  "confidence": 0.7
+ },
+ {
+  "subject": "VORTAC (electronic navigation system)",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "TACAN",
+  "object": "DME (distance measuring equipment)",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "V-speeds",
+  "object": "Part 141 (14 CFR)",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "WARP",
+  "object": "RADAR",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "X-axis",
+  "object": "Z-axis",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "X-band radar",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "Y-axis",
+  "object": "Z-axis",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Y-connected circuit (electrical circuit)",
+  "object": "AC (alternating current)",
+  "relation": "part_of",
+  "confidence": 0.7
+ },
+ {
+  "subject": "Z-axis",
+  "object": "X-axis",
+  "relation": "none",
+  "confidence": 0.5
+ },
+ {
+  "subject": "Zulu time",
+  "object": "Greenwich mean time",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ACARS",
+  "object": "ARINC",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ACDO",
+  "object": "ACDO (air carrier district office)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ADIZ",
+  "object": "ADIZ (air defense identification zone)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AFCS",
+  "object": "AFCS (automatic flight control system)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AFTI",
+  "object": "Technology",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "AILS",
+  "object": "ILS (Instrument Landing System)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "AIREP",
+  "object": "AIREP (aircraft report)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "ALERFA",
+  "object": "ALERFA (alert phase) (ICAO)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "ALERFA",
+  "object": "ICAO",
+  "relation": "defined_by",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ALNOT",
+  "object": "ALNOT (Alert Notice)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "ALOFT",
+  "object": "Technology",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ALTRV",
+  "object": "ALTRV (altitude reservation)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "AMSL",
+  "object": "MSL (mean sea level)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ARAC",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "ARINC",
+  "object": "ARINC (Aeronautical Radio Incorporated)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "A-RNAV",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "ARSR",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ARSR",
+  "object": "ARSR (air route surveillance radar)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "ARTCC",
+  "object": "ARTCC (air route traffic control center)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "ARTS",
+  "object": "ARTS (automated radar terminal systems)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "ARTS",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ASCB",
+  "object": "OBS mode (avionics)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "ASCR",
+  "object": "SCR (silicon controlled rectifier)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ASRAAM",
+  "object": "AAM (air-to-air missile)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ASTOVL",
+  "object": "STOVL",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ATCAA",
+  "object": "ATC assigned airspace",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ATCS",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATCSCC",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATC-TFM",
+  "object": "North Pacific (air traffic control)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "ATLAS",
+  "object": "OBS mode (avionics)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "AWTT",
+  "object": "Technology",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "Baro-VNAV",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "BFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "BIGFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "BITE",
+  "object": "BITE (built-in test equipment)",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "BMEP",
+  "object": "BMEP (brake mean effective pressure)",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "BRITE",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "B-RNAV",
+  "object": "RNAV",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "BSFC",
+  "object": "BSFC (brake specific fuel consumption)",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "Btu",
+  "object": "Btu (British thermal unit)",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "CARF",
+  "object": "ALTRV (altitude reservation)",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "CEMF",
+  "object": "EMF (electromotive force)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "CENRAP",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "CENRAP",
+  "object": "ARTS",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "CFRP",
+  "object": "CFRP (carbon fiber reinforced plastic)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "CMNPS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "CONUS",
+  "object": "United States",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "CTAF",
+  "object": "CTAF (common traffic advisory frequency)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "DAIS",
+  "object": "OBS mode (avionics)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "DBRITE",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "DCFL",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.8
+ },
+ {
+  "subject": "DFDR",
+  "object": "FDR (flight data recorder)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "DGPS",
+  "object": "GPS (global positioning system)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "DMAP",
+  "object": "OBS mode (avionics)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "DMLS",
+  "object": "MLS (microwave landing system)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "DVFR",
+  "object": "DVFR (defense visual flight rules)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "DVFR",
+  "object": "VFR (visual flight rules)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EADF",
+  "object": "ADF (automatic direction finder)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EARTS",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.8
+ },
+ {
+  "subject": "EBCDIC",
+  "object": "BCD (binary coded decimal)",
+  "relation": "is_a",
+  "confidence": 0.8
+ },
+ {
+  "subject": "EDSP",
+  "object": "EICAS",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EGNOS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EHSI",
+  "object": "HSI (horizontal situation indicator)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EHSID",
+  "object": "HSI (horizontal situation indicator)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EMSAW",
+  "object": "MSA (minimum safe altitude)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "EMSAW",
+  "object": "MSAW (minimum safe altitude warning)",
+  "relation": "synonym_of",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ESHP",
+  "object": "ESHP (equivalent shaft horsepower)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "FANS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "FMCDU",
+  "object": "FMC (flight management computer)",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "FMCS",
+  "object": "FMC (flight management computer)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "FMCU",
+  "object": "FMC (flight management computer)",
+  "relation": "synonym_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "FSDO",
+  "object": "FSDO (Flight Standards District Office)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "GaAsFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "GADO",
+  "object": "GADO (general aviation district office)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "GFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "GLONASS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "GTOSCR",
+  "object": "SCR (silicon controlled rectifier)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "HIIC",
+  "object": "IC (integrated circuit)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "HiMAT",
+  "object": "Technology",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "HIWAS",
+  "object": "Advisory Service",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "IAPS",
+  "object": "OBS mode (avionics)",
+  "relation": "none",
+  "confidence": 0.9
+ },
+ {
+  "subject": "IDECM",
+  "object": "ECM (electronic countermeasures)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "IEPR",
+  "object": "EPR (engine pressure ratio)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "IGFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "ILS OC",
+  "object": "ILS (Instrument Landing System)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ILS/PRM",
+  "object": "ILS (Instrument Landing System)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "IRVR",
+  "object": "RVR (runway visual range)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "ISAR",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "JAST",
+  "object": "Technology",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "JATO",
+  "object": "JATO (jet assisted takeoff)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "JFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "KCAS",
+  "object": "CAS (calibrated airspeed)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "LANTIRN",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "LASCAR",
+  "object": "SCR (silicon controlled rectifier)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "LEMAC",
+  "object": "MAC (mean aerodynamic chord)",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "LINS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "LINS",
+  "object": "INS (inertial navigation system)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "LOFT",
+  "object": "VMC demonstration (flight training)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "LORAN",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "LRNAV",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "LRNS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "LRRA",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "MCDU",
+  "object": "CDU (control display unit)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "MEARTS",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "METAR",
+  "object": "METAR (aviation routine weather report)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "MMWR",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "MNPS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "MOSFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "MOSIC",
+  "object": "IC (integrated circuit)",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "MSAW",
+  "object": "MSA (minimum safe altitude)",
+  "relation": "controls",
+  "confidence": 0.7
+ },
+ {
+  "subject": "MSAW",
+  "object": "MSAW (minimum safe altitude warning)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "MTBF",
+  "object": "MTBF (mean time between failures)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "NAVWASS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "NDB(ADF)",
+  "object": "ADF (automatic direction finder)",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "NFDC",
+  "object": "NFDC (National Flight Data Center)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "NFDD",
+  "object": "NFDD (National Flight Data Digest)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "N-FET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "NNEW",
+  "object": "NextGen",
+  "relation": "part_of",
+  "confidence": 0.9
+ },
+ {
+  "subject": "NOTAM",
+  "object": "NOTAM (Notice to Airmen)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "NOTAM D",
+  "object": "NOTAM",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "NTAP",
+  "object": "NTAP (Notice to Airmen Publication)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "NTAP",
+  "object": "NOTAM (Notice to Airmen)",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "P-FET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "Phot-SCR",
+  "object": "SCR (silicon controlled rectifier)",
+  "relation": "is_a",
+  "confidence": 1.0
+ },
+ {
+  "subject": "PIBAL",
+  "object": "PIBAL (pilot balloon observation)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "PJFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "PNCS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "P-RNAV",
+  "object": "RNAV",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "RAPCON",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "RAREP",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "RATO",
+  "object": "RATO (rocket assisted takeoff)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "SARH",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "SATNAV",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "SHORAN",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "SIAP",
+  "object": "IAP (instrument approach procedure)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "SLAMMR",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "SLAR",
+  "object": "RADAR",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "S/MTD",
+  "object": "STOL",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "S/MTD",
+  "object": "Technology",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "STAR",
+  "object": "STAR (standard terminal arrival)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "STOL",
+  "object": "STOL (Short TakeOff and Landing)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "SVFR",
+  "object": "VFR (visual flight rules)",
+  "relation": "is_a",
+  "confidence": 0.95
+ },
+ {
+  "subject": "TANS",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.8
+ },
+ {
+  "subject": "TCDS",
+  "object": "TCDS (Type Certificate Data Sheet)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "TERPS",
+  "object": "United States",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "TIAS",
+  "object": "IAS (indicated airspeed)",
+  "relation": "is_a",
+  "confidence": 0.8
+ },
+ {
+  "subject": "TODA",
+  "object": "ICAO",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "TORA",
+  "object": "ICAO",
+  "relation": "defined_by",
+  "confidence": 0.9
+ },
+ {
+  "subject": "TRACAB",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "TRACON",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "TRSA",
+  "object": "RADAR",
+  "relation": "used_for",
+  "confidence": 0.7
+ },
+ {
+  "subject": "UFET",
+  "object": "FET (field effect transistor)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "USAF",
+  "object": "United States",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "USDA",
+  "object": "United States",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "USUA",
+  "object": "United States",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "VHIC",
+  "object": "IC (integrated circuit)",
+  "relation": "is_a",
+  "confidence": 0.9
+ },
+ {
+  "subject": "VIFF",
+  "object": "VIFF (vectoring in forward flight)",
+  "relation": "synonym_of",
+  "confidence": 1.0
+ },
+ {
+  "subject": "VNAV",
+  "object": "Mercator projection (navigation)",
+  "relation": "none",
+  "confidence": 0.6
+ },
+ {
+  "subject": "VORTAC",
+  "object": "TACAN",
+  "relation": "part_of",
+  "confidence": 0.8
+ },
+ {
+  "subject": "VSTOL",
+  "object": "STOL (Short TakeOff and Landing)",
+  "relation": "is_a",
+  "confidence": 0.8
+ },
+ {
+  "subject": "VTOSS",
+  "object": "Category A",
+  "relation": "defined_by",
+  "confidence": 0.9
+ }
+]
